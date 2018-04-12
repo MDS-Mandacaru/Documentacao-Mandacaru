@@ -1,0 +1,104 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Mandacaru\n\n\nRepositorio: \nMDS-Mandacaru",
+            "title": "Home"
+        },
+        {
+            "location": "/#mandacaru",
+            "text": "",
+            "title": "Mandacaru"
+        },
+        {
+            "location": "/#repositorio-mds-mandacaru",
+            "text": "",
+            "title": "Repositorio: MDS-Mandacaru"
+        },
+        {
+            "location": "/metodologia/",
+            "text": "Introdu\u00e7\u00e3o\n\n\nEste documento tem como objetivo deixar transparente o processo \u00c1gil utilizado pelo Time Scrum do projeto Mandacaru, descrevendo informa\u00e7\u00f5es como pap\u00e9is existentes e ritos do Scrum adotados.\n\n\nPap\u00e9is na Equipe\n\n\nEsta sess\u00e3o lista todos os pap\u00e9is existentes dentro do Time Scrum do projeto Mandacaru, suas atribui\u00e7\u00f5es e as pessoas que os est\u00e3o exercendo.\n\n\nProduct Owner\n\n\nDEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO\n\n\nScrum Master\n\n\nDEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO\n\n\nTime de Desenvolvimento\n\n\nDEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO\n\n\nDistribui\u00e7\u00e3o dos Pap\u00e9is\n\n\n\n\n\n\n\n\nMatr\u00edcula\n\n\nNome\n\n\nPapel\n\n\n\n\n\n\n\n\n\n\nMatr\u00edcula\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\nDesenvolvedor\n\n\n\n\n\n\nMatr\u00edcula\n\n\nFelipe\n\n\nDesenvolvedor\n\n\n\n\n\n\nMatr\u00edcula\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\nDesenvolvedor\n\n\n\n\n\n\n15/0138946\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\nScrum Master\n\n\n\n\n\n\nMatr\u00edcula\n\n\nMilton Juliano da Silva J\u00fanior\n\n\nDesenvolvedor\n\n\n\n\n\n\nMatr\u00edcula\n\n\nWilliam Elias Alves\n\n\nDesenvolvedor\n\n\n\n\n\n\n\n\nRitos do Scrum\n\n\nDaily Daily Meeting\n\n\nUma reuni\u00e3o online diariamente com inicio as 22 horas e dura\u00e7\u00e3o de 15 minutos. Durante o Daily Meeting, cada membro da equipe dever\u00e1 responder cada uma destas tr\u00eas perguntas:\n\n\n\n\nO que voc\u00ea fez hoje?\n\n\nO que voc\u00ea far\u00e1 amanh\u00e3?\n\n\nH\u00e1 algum impedimento no seu caminho?\n\n\n\n\nPlanejamento da Sprint\n\n\nPara determinar quais os itens do Product Backlog mais importantes para construir no pr\u00f3ximo sprint, ser\u00e1 realizado o planejamento da sprint.Durante o planejamento, a equipe deve chegar a um acordo sobre qual o objetivo do Sprint e com este objetivo em m\u00e3os, determinar quais os itens do backlog devem ser priorizados para serem executados na sprint. O planejamento da sprint acontecer\u00e1 toda segunda-feira com inicio as meio dia e dura\u00e7\u00e3o de at\u00e9 uma hora e meia.\n\n\nSprint\n\n\nAs Sprints ter\u00e3o dura\u00e7\u00e3o de uma semana, com inicio na segunda-feira com o planejamento da sprint e fim no s\u00e1bado.\n\n\nReview da Sprint\n\n\nAo final de cada sprint \u00e9 feito um Review da Sprint. Durante esta reuni\u00e3o, o time mostra o que foi alcan\u00e7ado durante o Sprint. A review da sprint acontecer\u00e1 aos s\u00e1bados.",
+            "title": "Metodologia"
+        },
+        {
+            "location": "/metodologia/#introducao",
+            "text": "Este documento tem como objetivo deixar transparente o processo \u00c1gil utilizado pelo Time Scrum do projeto Mandacaru, descrevendo informa\u00e7\u00f5es como pap\u00e9is existentes e ritos do Scrum adotados.",
+            "title": "Introdu\u00e7\u00e3o"
+        },
+        {
+            "location": "/metodologia/#papeis-na-equipe",
+            "text": "Esta sess\u00e3o lista todos os pap\u00e9is existentes dentro do Time Scrum do projeto Mandacaru, suas atribui\u00e7\u00f5es e as pessoas que os est\u00e3o exercendo.",
+            "title": "Pap\u00e9is na Equipe"
+        },
+        {
+            "location": "/metodologia/#product-owner",
+            "text": "DEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO",
+            "title": "Product Owner"
+        },
+        {
+            "location": "/metodologia/#scrum-master",
+            "text": "DEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO",
+            "title": "Scrum Master"
+        },
+        {
+            "location": "/metodologia/#time-de-desenvolvimento",
+            "text": "DEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO",
+            "title": "Time de Desenvolvimento"
+        },
+        {
+            "location": "/metodologia/#distribuicao-dos-papeis",
+            "text": "Matr\u00edcula  Nome  Papel      Matr\u00edcula  Aline Laureano de Ara\u00fajo Vilela  Desenvolvedor    Matr\u00edcula  Felipe  Desenvolvedor    Matr\u00edcula  Lu\u00eds Cl\u00e1udio Telles Lima  Desenvolvedor    15/0138946  Marcelo Ferreira Magalh\u00e3es J\u00fanior  Scrum Master    Matr\u00edcula  Milton Juliano da Silva J\u00fanior  Desenvolvedor    Matr\u00edcula  William Elias Alves  Desenvolvedor",
+            "title": "Distribui\u00e7\u00e3o dos Pap\u00e9is"
+        },
+        {
+            "location": "/metodologia/#ritos-do-scrum",
+            "text": "",
+            "title": "Ritos do Scrum"
+        },
+        {
+            "location": "/metodologia/#daily-daily-meeting",
+            "text": "Uma reuni\u00e3o online diariamente com inicio as 22 horas e dura\u00e7\u00e3o de 15 minutos. Durante o Daily Meeting, cada membro da equipe dever\u00e1 responder cada uma destas tr\u00eas perguntas:   O que voc\u00ea fez hoje?  O que voc\u00ea far\u00e1 amanh\u00e3?  H\u00e1 algum impedimento no seu caminho?",
+            "title": "Daily Daily Meeting"
+        },
+        {
+            "location": "/metodologia/#planejamento-da-sprint",
+            "text": "Para determinar quais os itens do Product Backlog mais importantes para construir no pr\u00f3ximo sprint, ser\u00e1 realizado o planejamento da sprint.Durante o planejamento, a equipe deve chegar a um acordo sobre qual o objetivo do Sprint e com este objetivo em m\u00e3os, determinar quais os itens do backlog devem ser priorizados para serem executados na sprint. O planejamento da sprint acontecer\u00e1 toda segunda-feira com inicio as meio dia e dura\u00e7\u00e3o de at\u00e9 uma hora e meia.",
+            "title": "Planejamento da Sprint"
+        },
+        {
+            "location": "/metodologia/#sprint",
+            "text": "As Sprints ter\u00e3o dura\u00e7\u00e3o de uma semana, com inicio na segunda-feira com o planejamento da sprint e fim no s\u00e1bado.",
+            "title": "Sprint"
+        },
+        {
+            "location": "/metodologia/#review-da-sprint",
+            "text": "Ao final de cada sprint \u00e9 feito um Review da Sprint. Durante esta reuni\u00e3o, o time mostra o que foi alcan\u00e7ado durante o Sprint. A review da sprint acontecer\u00e1 aos s\u00e1bados.",
+            "title": "Review da Sprint"
+        },
+        {
+            "location": "/sprint00/",
+            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n00\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\n11/04/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\n13/04/2018\n\n\n\n\n\n\nPontos planejados\n\n\n-\n\n\n\n\n\n\n\n\nResultados\n\n\nDurante esta sprint foram decididos os seguintes items:\n\n\n\n\n\n\nScrum Master\n\n\n\n\nFicou decido que Marcelo Magalh\u00e3es ser\u00e1 o Scrum Master.\n\n\n\n\n\n\n\n\nHorario do daily meeting\n\n\n\n\nFoi decidido que o daily meeting acontecer\u00e1 sempre as 22:00.\n\n\n\n\n\n\n\n\nDia e horario da sprint planning\n\n\n\n\nFoi decidido que o sprint planning acontecer\u00e1 toda segunda-feira das 12:00 as 13:00.\n\n\n\n\n\n\nDia e horario da sprint review\n\n\nFoi decidido que o sprint review acontecer\u00e1 aos s\u00e1bados.\n\n\n\n\n\n\n\n\nQuadro de conhecimentos\n\n\nAtividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.\n\n\n\n\n\n\n\n\nMembros\n\n\nGit\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n:(\n\n\n:D\n\n\n:D\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n\n\n\n\nFelipe\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n:)\n\n\n:)\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLegenda\n\n\nRuim - :(\n\n\nBom - :)\n\n\n\u00d3timo - :D\n\n\n\n\n\n\n\n\n\n\n\n\nResumo de tecnologias \u00e1geis\n\n\nScrum\n\n\nXP",
+            "title": "Sprint 00"
+        },
+        {
+            "location": "/sprint00/#planejamento",
+            "text": "N\u00famero da sprint  00      Data de in\u00edcio  11/04/2018    Data de t\u00e9rmino  13/04/2018    Pontos planejados  -",
+            "title": "Planejamento"
+        },
+        {
+            "location": "/sprint00/#resultados",
+            "text": "Durante esta sprint foram decididos os seguintes items:    Scrum Master   Ficou decido que Marcelo Magalh\u00e3es ser\u00e1 o Scrum Master.     Horario do daily meeting   Foi decidido que o daily meeting acontecer\u00e1 sempre as 22:00.     Dia e horario da sprint planning   Foi decidido que o sprint planning acontecer\u00e1 toda segunda-feira das 12:00 as 13:00.    Dia e horario da sprint review  Foi decidido que o sprint review acontecer\u00e1 aos s\u00e1bados.",
+            "title": "Resultados"
+        },
+        {
+            "location": "/sprint00/#quadro-de-conhecimentos",
+            "text": "Atividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.     Membros  Git  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela  :(  :D  :D  :(  :(  :)  :(    Felipe  :)  :(  :(  :)  :(  :(  :(    Lu\u00eds Cl\u00e1udio Telles Lima  :)  :(  :(  :(  :(  :(  :(    Marcelo Ferreira Magalh\u00e3es J\u00fanior  :(  :(  :(  :(  :(  :(  :(    Milton Juliano da Silva J\u00fanior  :(  :(  :(  :(  :(  :(  :(    William Elias Alves  :)  :)  :)  :(  :(  :(  :(        Legenda  Ruim - :(  Bom - :)  \u00d3timo - :D",
+            "title": "Quadro de conhecimentos"
+        },
+        {
+            "location": "/sprint00/#resumo-de-tecnologias-ageis",
+            "text": "Scrum  XP",
+            "title": "Resumo de tecnologias \u00e1geis"
+        }
+    ]
+}

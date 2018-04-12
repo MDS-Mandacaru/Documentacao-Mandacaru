@@ -1,0 +1,6 @@
+site_name: Mandacaru
+pages:
+    - Home: index.md
+    - Metodologia:  metodologia.md
+    - Sprint 00: sprint00.md
+theme: readthedocs
