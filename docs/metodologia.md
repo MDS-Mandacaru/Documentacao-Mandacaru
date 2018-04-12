@@ -18,7 +18,7 @@ Esta sessão lista todos os papéis existentes dentro do Time Scrum do projeto M
 | --------- | ---- | ----- |
 | Matrícula | Aline Laureano de Araújo Vilela | Desenvolvedor |
 | Matrícula | Felipe | Desenvolvedor |
-| Matrícula | Luís Cláudio Telles Lima | Desenvolvedor |
+| 16/0153204 | Luís Cláudio Telles Lima | Desenvolvedor |
 | 15/0138946 | Marcelo Ferreira Magalhães Júnior | Scrum Master |
 | Matrícula | Milton Juliano da Silva Júnior | Desenvolvedor |
 | Matrícula | William Elias Alves | Desenvolvedor |
