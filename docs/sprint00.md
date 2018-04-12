@@ -1,6 +1,6 @@
 # Planejamento
 
-|Número da sprint 	| 0|
+|Número da sprint 	| 00|
 |---------|-|
 |Data de início 	| 11/04/2018|
 |Data de término 	| 13/04/2018|
@@ -27,14 +27,14 @@ Atividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvim
 
 Membros | Git | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap 
 ------- | --- | ---- | --- | -------- | ------ | -------------- | --------- 
-Aline Laureano de Araújo Vilela   | :cold_sweat: | :smile: | :smile: | :cold_sweat: | :cold_sweat: | :confused: | :cold_sweat: 
-Felipe  | :confused: | :cold_sweat:  | :cold_sweat: | :confused: | :cold_sweat: | :cold_sweat: | :cold_sweat: 
-Luís Cláudio Telles Lima | :confused: | :cold_sweat:  | :cold_sweat:  | :cold_sweat: | :cold_sweat: | :cold_sweat: | :cold_sweat: 
- Marcelo Ferreira Magalhães Júnior | :cold_sweat:  | :cold_sweat:  | :cold_sweat:  | :cold_sweat:  | :cold_sweat: | :cold_sweat: | :cold_sweat: 
-Milton Juliano da Silva Júnior | :cold_sweat:  | :cold_sweat:  | :cold_sweat:  | :cold_sweat:  | :cold_sweat: | :cold_sweat: | :cold_sweat: 
-William Elias Alves | :confused: | :confused: | :confused: | :cold_sweat:  | :cold_sweat: | :cold_sweat: | :cold_sweat: 
+Aline Laureano de Araújo Vilela   | :( | :D | :D | :( | :( | :) | :( 
+Felipe  | :) | :(  | :( | :) | :( | :( | :( 
+Luís Cláudio Telles Lima | :) | :(  | :(  | :( | :( | :( | :( 
+ Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :( 
+Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :( 
+William Elias Alves | :) | :) | :) | :(  | :( | :( | :( 
  
-Legenda | Ruim - :cold_sweat: | Bom - :confused: | Ótimo - :smile:
+Legenda | Ruim - :( | Bom - :) | Ótimo - :D
 ------- | ------- | ------- | ------- | 
 
 ## Resumo de tecnologias ágeis
