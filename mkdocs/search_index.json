@@ -2,13 +2,18 @@
     "docs": [
         {
             "location": "/",
-            "text": "Welcome to Mandacaru",
+            "text": "Mandacaru\n\n\nRepositorio: \nMDS-Mandacaru",
             "title": "Home"
         },
         {
-            "location": "/#welcome-to-mandacaru",
+            "location": "/#mandacaru",
             "text": "",
-            "title": "Welcome to Mandacaru"
+            "title": "Mandacaru"
+        },
+        {
+            "location": "/#repositorio-mds-mandacaru",
+            "text": "",
+            "title": "Repositorio: MDS-Mandacaru"
         },
         {
             "location": "/metodologia/",
@@ -71,27 +76,27 @@
             "title": "Review da Sprint"
         },
         {
-            "location": "/sprint0/",
-            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n0\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\n11/04/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\n13/04/2018\n\n\n\n\n\n\nPontos planejados\n\n\n-\n\n\n\n\n\n\n\n\nResultados\n\n\nDurante esta sprint foram decididos os seguintes items:\n\n\n\n\n\n\nScrum Master\n\n\n\n\nFicou decido que Marcelo Magalh\u00e3es ser\u00e1 o Scrum Master.\n\n\n\n\n\n\n\n\nHorario do daily meeting\n\n\n\n\nFoi decidido que o daily meeting acontecer\u00e1 sempre as 22:00.\n\n\n\n\n\n\n\n\nDia e horario da sprint planning\n\n\n\n\nFoi decidido que o sprint planning acontecer\u00e1 toda segunda-feira das 12:00 as 13:00.\n\n\n\n\n\n\nDia e horario da sprint review\n\n\nFoi decidido que o sprint review acontecer\u00e1 aos s\u00e1bados.\n\n\n\n\n\n\n\n\nQuadro de conhecimentos\n\n\nAtividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.\n\n\n\n\n\n\n\n\nMembros\n\n\nGit\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n:cold_sweat:\n\n\n:smile:\n\n\n:smile:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:confused:\n\n\n:cold_sweat:\n\n\n\n\n\n\nFelipe\n\n\n:confused:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:confused:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n:confused:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n:confused:\n\n\n:confused:\n\n\n:confused:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n:cold_sweat:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLegenda\n\n\nRuim - :cold_sweat:\n\n\nBom - :confused:\n\n\n\u00d3timo - :smile:\n\n\n\n\n\n\n\n\n\n\n\n\nResumo de tecnologias \u00e1geis\n\n\nScrum\n\n\nXP",
-            "title": "Sprint 0"
+            "location": "/sprint00/",
+            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n00\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\n11/04/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\n13/04/2018\n\n\n\n\n\n\nPontos planejados\n\n\n-\n\n\n\n\n\n\n\n\nResultados\n\n\nDurante esta sprint foram decididos os seguintes items:\n\n\n\n\n\n\nScrum Master\n\n\n\n\nFicou decido que Marcelo Magalh\u00e3es ser\u00e1 o Scrum Master.\n\n\n\n\n\n\n\n\nHorario do daily meeting\n\n\n\n\nFoi decidido que o daily meeting acontecer\u00e1 sempre as 22:00.\n\n\n\n\n\n\n\n\nDia e horario da sprint planning\n\n\n\n\nFoi decidido que o sprint planning acontecer\u00e1 toda segunda-feira das 12:00 as 13:00.\n\n\n\n\n\n\nDia e horario da sprint review\n\n\nFoi decidido que o sprint review acontecer\u00e1 aos s\u00e1bados.\n\n\n\n\n\n\n\n\nQuadro de conhecimentos\n\n\nAtividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.\n\n\n\n\n\n\n\n\nMembros\n\n\nGit\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n:(\n\n\n:D\n\n\n:D\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n\n\n\n\nFelipe\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n:)\n\n\n:)\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLegenda\n\n\nRuim - :(\n\n\nBom - :)\n\n\n\u00d3timo - :D\n\n\n\n\n\n\n\n\n\n\n\n\nResumo de tecnologias \u00e1geis\n\n\nScrum\n\n\nXP",
+            "title": "Sprint 00"
         },
         {
-            "location": "/sprint0/#planejamento",
-            "text": "N\u00famero da sprint  0      Data de in\u00edcio  11/04/2018    Data de t\u00e9rmino  13/04/2018    Pontos planejados  -",
+            "location": "/sprint00/#planejamento",
+            "text": "N\u00famero da sprint  00      Data de in\u00edcio  11/04/2018    Data de t\u00e9rmino  13/04/2018    Pontos planejados  -",
             "title": "Planejamento"
         },
         {
-            "location": "/sprint0/#resultados",
+            "location": "/sprint00/#resultados",
             "text": "Durante esta sprint foram decididos os seguintes items:    Scrum Master   Ficou decido que Marcelo Magalh\u00e3es ser\u00e1 o Scrum Master.     Horario do daily meeting   Foi decidido que o daily meeting acontecer\u00e1 sempre as 22:00.     Dia e horario da sprint planning   Foi decidido que o sprint planning acontecer\u00e1 toda segunda-feira das 12:00 as 13:00.    Dia e horario da sprint review  Foi decidido que o sprint review acontecer\u00e1 aos s\u00e1bados.",
             "title": "Resultados"
         },
         {
-            "location": "/sprint0/#quadro-de-conhecimentos",
-            "text": "Atividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.     Membros  Git  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela  :cold_sweat:  :smile:  :smile:  :cold_sweat:  :cold_sweat:  :confused:  :cold_sweat:    Felipe  :confused:  :cold_sweat:  :cold_sweat:  :confused:  :cold_sweat:  :cold_sweat:  :cold_sweat:    Lu\u00eds Cl\u00e1udio Telles Lima  :confused:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:    Marcelo Ferreira Magalh\u00e3es J\u00fanior  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:    Milton Juliano da Silva J\u00fanior  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:    William Elias Alves  :confused:  :confused:  :confused:  :cold_sweat:  :cold_sweat:  :cold_sweat:  :cold_sweat:        Legenda  Ruim - :cold_sweat:  Bom - :confused:  \u00d3timo - :smile:",
+            "location": "/sprint00/#quadro-de-conhecimentos",
+            "text": "Atividade relativa a adquirir conhecimento a cerca da metodologia de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.     Membros  Git  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela  :(  :D  :D  :(  :(  :)  :(    Felipe  :)  :(  :(  :)  :(  :(  :(    Lu\u00eds Cl\u00e1udio Telles Lima  :)  :(  :(  :(  :(  :(  :(    Marcelo Ferreira Magalh\u00e3es J\u00fanior  :(  :(  :(  :(  :(  :(  :(    Milton Juliano da Silva J\u00fanior  :(  :(  :(  :(  :(  :(  :(    William Elias Alves  :)  :)  :)  :(  :(  :(  :(        Legenda  Ruim - :(  Bom - :)  \u00d3timo - :D",
             "title": "Quadro de conhecimentos"
         },
         {
-            "location": "/sprint0/#resumo-de-tecnologias-ageis",
+            "location": "/sprint00/#resumo-de-tecnologias-ageis",
             "text": "Scrum  XP",
             "title": "Resumo de tecnologias \u00e1geis"
         }
