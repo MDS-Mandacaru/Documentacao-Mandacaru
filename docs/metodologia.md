@@ -21,7 +21,7 @@ Esta sessão lista todos os papéis existentes dentro do Time Scrum do projeto M
 | 16/0153204 | Luís Cláudio Telles Lima | Desenvolvedor |
 | 15/0138946 | Marcelo Ferreira Magalhães Júnior | Scrum Master |
 | Matrícula | Milton Juliano da Silva Júnior | Desenvolvedor |
-| Matrícula | William Elias Alves | Desenvolvedor |
+| 16/0149053 | William Elias Alves | Desenvolvedor |
 
 # Ritos do Scrum
 ## Daily Daily Meeting
