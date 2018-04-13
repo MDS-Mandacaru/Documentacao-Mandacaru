@@ -24,6 +24,16 @@ Esta sessão lista todos os papéis existentes dentro do Time Scrum do projeto M
 | Matrícula | Milton Juliano da Silva Júnior | Desenvolvedor |
 | 16/0149053  | William Elias Alves | Desenvolvedor |
 
+## Distribuição dos Papéis
+| Nome | Configurar<br/>Ambiente<br/><br/> | Adquirir Conhecimento <br/> Acerca da <br/>Metodologia de<br/>Desenvolvimento|Definir<br/> Horário <br/> dos <br/>Rituais| Definir <br/>Papéis<br/>do Time<br/>Scrum|Levantar<br/>Requisitos<br/><br/>| 
+| ---- | ----- | ---|--|--|--|
+| Aline Laureano de Araújo Vilela | <p> &#x2714; </p> |<p> &#x2714; </p>|||<p> &#x2714; </p>|
+| Felipe | <p> &#x2714; </p> |||<p> &#x2714; </p>|<p> &#x2714; </p>|
+| Luís Cláudio Telles Lima |<p> &#x2714; </p>|||<p> &#x2714; </p>|<p> &#x2714; </p>|
+| Marcelo Ferreira Magalhães Júnior |<p> &#x2714; </p>||<p> &#x2714; </p>||<p> &#x2714; </p>|
+| Milton Juliano da Silva Júnior |<p> &#x2714; </p>||<p> &#x2714; </p>||<p> &#x2714; </p>|
+| William Elias Alves |<p> &#x2714; </p>|<p> &#x2714; </p>|||<p> &#x2714; </p>|
+
 # Ritos do Scrum
 ## Daily Daily Meeting
 Uma reunião online diariamente com inicio as 22 horas e duração de 15 minutos. Durante o Daily Meeting, cada membro da equipe deverá responder cada uma destas três perguntas:
