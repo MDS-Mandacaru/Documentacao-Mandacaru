@@ -5,23 +5,24 @@ Este documento tem como objetivo deixar transparente o processo Ágil utilizado 
 Esta sessão lista todos os papéis existentes dentro do Time Scrum do projeto Mandacaru, suas atribuições e as pessoas que os estão exercendo.
 
 ## Product Owner
-**DEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO**
+| Nome | Papel| 
+|------| ---- |
+|Victor Arnald| |
 
 ## Scrum Master
-**DEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO**
+| Nome | Papel| 
+|------| ---- |
+|Marcelo Ferreira Magalhães Júnior| |
 
 ## Time de Desenvolvimento
-**DEFINIR E DESCREVER PAPEL NO DESENVOLVIMENTO**
-
-## Distribuição dos Papéis
-| Matrícula | Nome | Papel |
-| --------- | ---- | ----- |
+| Matrícula | Nome | Papel | 
+| --------- | ---- | ----- | 
 | Matrícula | Aline Laureano de Araújo Vilela | Desenvolvedor |
 | Matrícula | Felipe | Desenvolvedor |
 | 16/0153204 | Luís Cláudio Telles Lima | Desenvolvedor |
 | 15/0138946 | Marcelo Ferreira Magalhães Júnior | Scrum Master |
 | Matrícula | Milton Juliano da Silva Júnior | Desenvolvedor |
-| 16/0149053 | William Elias Alves | Desenvolvedor |
+| 16/0149053  | William Elias Alves | Desenvolvedor |
 
 # Ritos do Scrum
 ## Daily Daily Meeting
