@@ -82,6 +82,7 @@ Os Times de Desenvolvimento devem ter autossuficiência e complementabilidade pa
 Os ritos ou eventos do Scrum servem para criar regularidades e minimizar a necessidade de reuniões de última hora e todos esses ritos são definidos com horários específicos.
 
 **Sprint**
+
  é o período total necessário para a produção e concepção de um produto funcional, podendo ser considerada potencialmente um projeto. Ela deve conter um planejamento, reuniões diárias, revisões, retrospectivas e tem a característica de poderem ser canceladas.
 
 **Sprint Planning**
@@ -115,7 +116,36 @@ Normalmente essa reunião tem a duração de  4 horas, isso para uma Sprint de u
 Realizada após a sprint review e antes do planejamento da sprint, a sprint retrospective é uma chance para o Time Scrum inspecionar a si próprio e criar um plano para melhorias a serem aplicadas na próxima Sprint.
 Ela serve, de uma forma geral, para  inspecionar como a última Sprint foi em relação às pessoas, aos relacionamentos, aos processos e às ferramentas, realizar uma identificação  e ordenação dos principais itens e as potenciais melhorias; e por fim criar um plano para implementar melhorias
 
+**Os artefatos**
 
+Os artefatos do Scrum representam o trabalho ou o valor para o fornecimento de transparência e oportunidades para inspeção e adaptação.
+
+**Product Backlog**
+
+O Product Backlog é lista ordenada do que o produto conterá, como já dito antes o Product Owner é responsável por isso.
+Como o esse artefato é diretamente relacionado com os requisitos do sistema, deve ser incrementado ao caminhar das sprints para que possa ser obtido um produto de acordo com as necessidades do cliente.
+
+
+**Sprint Backlog**
+
+O Backlog da Sprint é um grupo de itens do Backlog do Produto selecionados para a Sprint,
+junto com o que será entregue do produto da Sprint.
+O Backlog da Sprint é a previsão do Time de Desenvolvimento sobre qual funcionalidade estará
+no próximo incremento e sobre o trabalho necessário para entregar essa funcionalidade em
+um incremento “Pronto”.
+O Backlog da Sprint torna visível todo o trabalho que o Time de Desenvolvimento identifica
+como necessário para atingir o objetivo da Sprint. Para garantir melhoria contínua, é incluído
+no mínimo um item de prioridade alta sobre melhoria do processo identificado na última
+Reunião de Retrospectiva.
+
+**Increment**
+
+É tido como o que é obtido do Backlog do Produto completados durante a Sprint
+e o valor dos incrementos de todas as Sprints anteriores. No fim da Sprint um
+incremento deve estar finalizado.
+E serve para inspecionar o  trabalho considerado pronto no final da sprint. O incremento é um
+passo na direção de uma visão ou de um objetivo. O incremento deve estar na condição de ser
+utilizado independente do Product Owner decidir por liberá-lo ou não.
 
 
 
