@@ -149,4 +149,71 @@ utilizado independente do Product Owner decidir por liberá-lo ou não.
 
 
 
-### XP
+### EXTREMING PROGRAMING
+
+O Extreme Programming é um método de desenvolvimento de software, criado em 1996, por Kent Bech, no Departamento de Computação da montadora de carros Daimler Crysler, ele possui muitas diferenças em relação a outros modelos, podendo ser aplicado a projetos de alto risco e com requisitos dinâmicos. O objetivo principal do XP é levar ao extremo um conjunto de práticas que são ditas como boas na engenharia de software. 
+
+- Já que testar é bom, que todos testem o tempo todo;
+- Já que revisão é bom, que se revise o tempo todo;
+- Se projetar é bom, então refatorar o tempo todo;
+- Se teste de integração é bom, então que se integre o tempo todo;
+- Se simplicidade é bom, desenvolva uma solução não apenas que funcione, mas que seja a mais simples possível;
+- Se iterações curtas é bom, então mantenha-as realmente curtas;
+Portanto, como podemos notar todas as coisas boas são levadas ao extremo no XP.
+
+**PRINCÍPIOS BÁSICOS**
+
+Ele procura fundamentar as suas práticas por um conjunto de princípios:
+
+- Comunicação
+- Simplicidade
+- Feedback  rápido
+- Mudanças incrementais
+- Abraçar mudanças
+- Trabalho de qualidade
+- Coragem
+- Respeito
+
+
+
+**PRÁTICAS**
+
+**Jogo de Planeamento**: O desenvolvimento é feito em iterações semanais. No início da semana, desenvolvedores e cliente reúnem-se para priorizar as funcionalidades. Nela, o cliente identifica prioridades e os desenvolvedores as estimam. O cliente é essencial neste processo e, assim, ele fica sabendo o que está acontecendo e o que vai acontecer no projeto. Como o escopo é reavaliado semanalmente, o projeto é regido por um contrato de escopo negociável. Ao final de cada semana, o cliente recebe novas funcionalidades, completamente testadas e prontas para serem colocadas em produção.
+
+**Pequenas Versões**: A liberação de pequenas versões funcionais do projecto auxilia muito no processo de aceitação por parte do cliente, que já pode testar uma parte do sistema que está comprando.
+
+**Metáfora**: Procurar facilitar a comunicação com o cliente, entendendo a realidade dele.  É preciso traduzir as palavras do cliente para o significado que esperado para a equipe desenvolvedora do projeto.
+
+**Projeto Simples**: Projeto simples significa dizer que caso o cliente tenha pedido que na primeira versão apenas o usuário "teste" possa entrar no sistema com a senha "123" e assim ter acesso a todo o sistema, você vai fazer o código exato para que esta funcionalidade seja implementada, sem se preocupar com sistemas de autenticação e restrições de acesso. Um erro comum ao adotar essa prática é a confusão por parte dos programadores de código simples e código fácil. Esse entendimento é fundamental para o bom andamento do XP. Código fácil deve ser identificado e substituído por código simples.
+
+**Time Coeso**: A equipe de desenvolvimento é formada pelo cliente e pela equipe de desenvolvimento.
+
+**Testes de Aceitação**: São testes construídos pelo cliente em conjunto com analistas e testadores, para aceitar um determinado requisito do sistema.
+
+**Ritmo Sustentável**: Trabalhar com qualidade, buscando ter ritmo de trabalho saudável. Horas extras são permitidas quando trouxerem produtividade para a execução do projeto.
+
+**Posse Coletiva**: O código fonte não tem dono e ninguém precisa ter permissão concedida para poder modificar o mesmo. O objetivo com isto é fazer a equipe conhecer todas as partes do sistema.
+
+**Programação em Pares**: é a programação em dupla num único computador. Geralmente a dupla é criada com alguém sendo iniciado na liguagem e a outra pessoa funcionando como um instrutor. Como é apenas um computador, o novato é que fica à frente fazendo a codificação, e o instrutor acompanha ajudando a desenvolver suas habilidades. Dessa forma o programa sempre é revisto por duas pessoas, evitando e diminuindo assim a possibilidade de erros (bugs).Com isto, procura-se sempre a evolução da equipe, melhorando a qualidade do código fonte gerado.
+
+**Padrões de Codificação**: A equipe de desenvolvimento precisa estabelecer regras para programar e todos devem seguir estas regras. Dessa forma parecerá que todo o código fonte foi editado pela mesma pessoa.
+
+**Desenvolvimento Orientado a Testes**: Primeiro crie os testes unitários (unit tests) e depois crie o código para que os testes funcionem. Esta abordagem é complexa no início, pois vai contra o processo de desenvolvimento de muitos anos. Só que os testes unitários são essenciais para que a qualidade do projeto seja mantida.
+
+**Refatoração**: É um processo que permite a melhoria contínua da programação, com o mínimo de introdução de erros e mantendo a compatibilidade com o código já existente. Refatorizar melhora a leitura do código, dividindo-o em módulos mais coesos e de maior reaproveitamento, evitando a duplicaçao de código-fonte.
+
+**Integração Contínua**: Sempre que realizar uma nova funcionalidade, nunca esperar uma semana para integrar na versão atual do sistema. Isto só aumenta a possibilidade de conflitos e a possibilidade de erros no código fonte. Integrar de forma contínua permite saber o status real da programação.
+
+**Ciclo de Vida**
+![ciclo_devida](/img/ciclo_devida.jpg)
+
+**Fontes**:
+
+[http://intranet.fainam.edu.br/acesso_site/fia/academos/revista3/6.pdf](http://intranet.fainam.edu.br/acesso_site/fia/academos/revista3/6.pdf)
+
+[https://pt.slideshare.net/rennanmartini/introduo-a-metodologia-xp-e-xtreme-programming?next_slideshow=1f](https://pt.slideshare.net/rennanmartini/introduo-a-metodologia-xp-e-xtreme-programming?next_slideshow=1f)
+
+[https://www.devmedia.com.br/introducao-ao-extreme-programming-xp/29249](https://www.devmedia.com.br/introducao-ao-extreme-programming-xp/29249)
+
+Guia Scrum:
+[http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf](http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf)
