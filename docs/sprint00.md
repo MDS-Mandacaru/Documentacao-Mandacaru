@@ -73,6 +73,18 @@ O Time deve buscar cada vez mais a independência em relação pessoas externas,
 O Time de Desenvolvimento é composto por  membros/profissionais  que efetuam o trabalho de entregar um produto estável no fim de uma sprint.
 Os Times de Desenvolvimento devem ter autossuficiência e complementabilidade para que exista uma sinergia necessária para execução de um bom trabalho individualmente e em grupo.
 
+**Distribuição dos Papéis**
+
+| Nome | Configurar<br/>Ambiente<br/><br/> | Adquirir Conhecimento <br/> Acerca da <br/>Metodologia de<br/>Desenvolvimento|Definir<br/> Horário <br/> dos <br/>Rituais| Definir <br/>Papéis<br/>do Time<br/>Scrum|Levantar<br/>Requisitos<br/><br/>| 
+| ---- | ----- | ---|--|--|--|
+| Aline Laureano de Araújo Vilela | <p> &#x2714; </p> |<p> &#x2714; </p>|||<p> &#x2714; </p>|
+| Felipe | <p> &#x2714; </p> |||<p> &#x2714; </p>|<p> &#x2714; </p>|
+| Luís Cláudio Telles Lima |<p> &#x2714; </p>|||<p> &#x2714; </p>|<p> &#x2714; </p>|
+| Marcelo Ferreira Magalhães Júnior |<p> &#x2714; </p>||<p> &#x2714; </p>||<p> &#x2714; </p>|
+| Milton Juliano da Silva Júnior |<p> &#x2714; </p>||<p> &#x2714; </p>||<p> &#x2714; </p>|
+| William Elias Alves |<p> &#x2714; </p>|<p> &#x2714; </p>|||<p> &#x2714; </p>|
+
+
 **Scrum Master**
 
  De uma forma geral e sucinta, o Scrum Master é intermediador da equipe para com a teoria, as práticas e as regras do Scrum.
