@@ -4,7 +4,7 @@
     
     <url>
      <loc>/</loc>
-     <lastmod>2018-04-19</lastmod>
+     <lastmod>2018-05-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -12,25 +12,41 @@
     
     <url>
      <loc>/metodologia/</loc>
-     <lastmod>2018-04-19</lastmod>
+     <lastmod>2018-05-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
+        
     <url>
-     <loc>/sprint00/</loc>
-     <lastmod>2018-04-19</lastmod>
+     <loc>/Sprints/Sprint00/planejamento-sprint00/</loc>
+     <lastmod>2018-05-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/Sprints/Sprint00/resultados-sprint00/</loc>
+     <lastmod>2018-05-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
     
+        
     <url>
-     <loc>/sprint01/</loc>
-     <lastmod>2018-04-19</lastmod>
+     <loc>/Sprints/Sprint01/planejamento-sprint01/</loc>
+     <lastmod>2018-05-08</lastmod>
      <changefreq>daily</changefreq>
     </url>
+        
+    <url>
+     <loc>/Sprints/Sprint01/resultados-sprint01/</loc>
+     <lastmod>2018-05-08</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
