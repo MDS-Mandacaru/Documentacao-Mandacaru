@@ -9,8 +9,7 @@
 Nessa segunda Sprint precisamos construir o backlog das funcionalidades que serão implementadas na primeira release. Os seguintes pontos devem ser completados:
 
 ### Horários
-Sprint Planning:
-16/04 as 11:30
+Sprint Planning:16/04 as 11:30
 
 Daily meeting:
 Segunda, Quarta e Sexta 12:00

@@ -8,4 +8,10 @@ pages:
     - Sprint 01:    
       - Planejamento: Sprints/Sprint01/planejamento-sprint01.md
       - Resultado: Sprints/Sprint01/resultados-sprint01.md
+    - Sprint 02:    
+      - Planejamento: Sprints/Sprint02/planejamento-sprint02.md
+      - Resultado: Sprints/Sprint02/resultados-sprint02.md
+    - Sprint 03:    
+      - Planejamento: Sprints/Sprint03/planejamento-sprint03.md
+      - Resultado: Sprints/Sprint03/resultados-sprint03.md
 theme: readthedocs

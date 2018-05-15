@@ -7,6 +7,20 @@
 | 1  | Ranking de Grupos | Os usuários da aplicação poderão visualizar o Ranking dos Grupos da  na disciplina   | Alto  |   |
 | 2  | Hall da Fama      | Os usuários da aplicação poderão visualizar o Hall da fama dos grupos da  na disciplina  | Alto  |   |
 
+##Quadro de conhecimentos
+
+Membros | Git | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap
+------- | --- | ---- | --- | -------- | ------ | -------------- | ---------
+Aline Laureano de Araújo Vilela   | :( | :D | :D | :( | :( | :) | :(
+Felipe  | :) | :(  | :( | :) | :( | :( | :(
+Luís Cláudio Telles Lima | :) | :(  | :(  | :( | :( | :( | :(
+Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
+Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
+William Elias Alves | :) | :) | :) | :(  | :( | :( | :(
+
+Legenda | Ruim - :( | Bom - :) | Ótimo - :D
+------- | ------- | ------- | ------- |
+
 #### Notas a respeito dos itens do Backlog do Produto
 
 Ranking de Grupos:
