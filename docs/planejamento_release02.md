@@ -12,7 +12,7 @@ A release é dada como um período extenso de tempo que contém diversas sprints
 
 ## Features propostas para a Release:
 
-* FT02 - ND
+* FT01 - ND
 * FT02 - ND
 
 ## Conhecimento inicial
