@@ -1,5 +1,15 @@
 # Resultados
 
+##Status das Issues no Fim da Sprint
+|Issue 	| Status|
+|---|----------|
+|#1 |Concluída |
+|#2 |Concluída |
+|#3 |Concluída |
+|#4 |Concluída |
+|#5 |Concluída |
+|#6 |Concluída |
+
 Durante esta sprint foram decididos os seguintes items:
 
 - Scrum Master
