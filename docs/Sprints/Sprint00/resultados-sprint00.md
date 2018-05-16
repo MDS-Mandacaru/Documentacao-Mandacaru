@@ -36,6 +36,7 @@ Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
 Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
 William Elias Alves | :) | :) | :) | :(  | :( | :( | :(
 
+
   **Legenda**
 
   * Ruim:   :(
