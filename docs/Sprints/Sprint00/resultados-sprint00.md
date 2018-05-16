@@ -6,10 +6,10 @@ Durante esta sprint foram decididos os seguintes items:
     - Ficou decido que Marcelo Magalhães será o Scrum Master.
 
 - Horario do daily meeting
-    - Foi decidido que o daily meeting acontecerá sempre as 22:00.
+    - Foi decidido que o daily meeting acontecerá sempre as 13:00.
 
 - Dia e horario da sprint planning
-    - Foi decidido que o sprint planning acontecerá toda segunda-feira das 12:00 as 13:00.
+    - Foi decidido que o sprint planning acontecerá toda segunda-feira das 12:00 as 14:00.
 - Dia e horario da sprint review
     - Foi decidido que o sprint review acontecerá aos sábados.
 
@@ -67,7 +67,7 @@ Os Times de Desenvolvimento devem ter autossuficiência e complementabilidade pa
 
 **Distribuição dos Papéis**
 
-| Nome | Configurar<br/>Ambiente<br/><br/> | Adquirir Conhecimento <br/> Acerca da <br/>Metodologia de<br/>Desenvolvimento|Definir<br/> Horário <br/> dos <br/>Rituais| Definir <br/>Papéis<br/>do Time<br/>Scrum|Levantar<br/>Requisitos<br/><br/>| 
+| Nome | Configurar<br/>Ambiente<br/><br/> | Adquirir Conhecimento <br/> Acerca da <br/>Metodologia de<br/>Desenvolvimento|Definir<br/> Horário <br/> dos <br/>Rituais| Definir <br/>Papéis<br/>do Time<br/>Scrum|Levantar<br/>Requisitos<br/><br/>|
 | ---- | ----- | ---|--|--|--|
 | Aline Laureano de Araújo Vilela | <p> &#x2714; </p> |<p> &#x2714; </p>|||<p> &#x2714; </p>|
 | Felipe | <p> &#x2714; </p> |||<p> &#x2714; </p>|<p> &#x2714; </p>|

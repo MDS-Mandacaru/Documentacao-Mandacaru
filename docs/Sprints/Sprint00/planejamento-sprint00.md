@@ -5,8 +5,6 @@
 |Data de início 	| 09/04/2018|
 |Data de término 	| 15/04/2018|
 
-## O que é preciso entregar
-Nessa primeira Sprint precisamos entender o contexto do problema que será resolvido, além de adquirir os conhecimentos básicos para iniciar o desenvolvimento. Os seguintes pontos devem ser completados:
 
 ### Horarios
 
@@ -28,8 +26,11 @@ Nessa primeira Sprint precisamos entender o contexto do problema que será resol
     * Atualizar o andamento das tarefas no repositório via ZenHub
 
 ### Sprint Backlog
+
+Nessa primeira Sprint precisamos entender o contexto do problema que será resolvido, além de adquirir os conhecimentos básicos para iniciar o desenvolvimento. Os seguintes pontos devem ser completados:
+
 ***
-* **Issue 1** - Configurar ambiente 
+* **Issue 1** - Configurar ambiente
     * Sistema operacional https://victorarnaud.github.io/TBL/contribuicao/install/
     * ZenHub https://www.zenhub.com/ <br/>
 **Tarefas:**  
@@ -47,14 +48,11 @@ Nessa primeira Sprint precisamos entender o contexto do problema que será resol
 <br/><br/>
 * **Issue 4** - Definir papeis do time scrum<br/>
   **Tarefas:**
-    * Descrever papéis e representantes de cada papel(Documento de metodologia) 
+    * Descrever papéis e representantes de cada papel(Documento de metodologia)
 <br/><br/>
 * **Issue 5** - Levantar requisitos<br/>
   **Tarefas:**
     * Reunir com o cliente(Victor) e levantar os requisitos da funcionalidade planejada, e documentar na wiki.
 <br/><br/>
-**Importante:** Criar as Issues em  nossos repositórios 
+**Importante:** Criar as Issues em  nossos repositórios
 ***
-    
-
-

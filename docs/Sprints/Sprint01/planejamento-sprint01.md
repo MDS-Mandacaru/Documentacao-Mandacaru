@@ -5,22 +5,24 @@
 |Data de início 	| 16/04/2018|
 |Data de término 	| 22/04/2018|
 
-## O que precisa ser entregue
-Nessa segunda Sprint precisamos construir o backlog das funcionalidades que serão implementadas na primeira release. Os seguintes pontos devem ser completados:
+### Reunião
+**Data:** 16/04
 
-### Horários
-Sprint Planning:16/04 as 11:30
+**Horário:** 11:30 às 13:30
 
-Daily meeting:
-Segunda, Quarta e Sexta 12:00
-Terça e Quinta 13:15
-Sábado às 19:00
+**Local:** UnB-FGA
 
-Sprint review:
- 23/04 Segunda às 11:50
+### Dados da Sprint
+* Horário daily meeting: 12:00
+* Sprint review: 23/04 Segunda às 11:50
 
 ### Papéis
-**Scrum Master**: Milton Juliano da Silva Júnior
+* Scrum Master: Milton Juliano da Silva Júnior
+
+* Development time: Aline Laureano, William Elias, Felipe, Luís Claudio e Marcelo Magalhães
+
+## Backlog da Sprint
+Nessa segunda Sprint precisamos construir o backlog das funcionalidades que serão implementadas na primeira release. Os seguintes pontos devem ser completados:
 
 Nessa sprint ficou definido que todos os integrantes do grupo deverão trabalhar nas **4 Issues** criadas:
 ***  
@@ -39,5 +41,3 @@ Nessa sprint ficou definido que todos os integrantes do grupo deverão trabalhar
 * **Issue 4** - Backlog dos requisitos (Entrega: 22/04)<br/>
   **Tarefas:**
     - Fazer a documentação da backlog dos requisitos agora levando em conta as funcionalidades, os métodos e o funcionamento do banco de dados.
-
-
