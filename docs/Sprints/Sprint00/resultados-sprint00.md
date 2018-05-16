@@ -29,6 +29,11 @@ William Elias Alves | :) | :) | :) | :(  | :( | :( | :(
 Legenda | Ruim - :( | Bom - :) | Ótimo - :D
 ------- | ------- | ------- | ------- |
 
+
+##Gráfico de burndown
+![burndown_sprint00](/img/burndown_sprint00.png)
+
+
 ## Resumo de tecnologias ágeis
 
 ### Scrum
