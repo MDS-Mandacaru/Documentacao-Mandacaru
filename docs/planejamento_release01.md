@@ -16,6 +16,7 @@ A release é dada como um período extenso de tempo que contém diversas sprints
 * FT01 - Ranking de Grupos
 * FT02 - Hall da Fama
 
+
 ## Conhecimento inicial
 Atividade relativa a adquirir conhecimento a cerca das metodologias de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.
 
