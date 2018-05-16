@@ -1,9 +1,11 @@
 site_name: Mandacaru
 pages:
+
     - Home: index.md
-    - Metodologia:  metodologia.md
+    - Metodologia: metodologia.md
+
     - Release 01:
-      - Planejamento: Sprints/planejamento_release01.md
+      - Planejamento: planejamento_release01.md
       - Sprint 00:
         - Planejamento: Sprints/Sprint00/planejamento-sprint00.md
         - Resultado: Sprints/Sprint00/resultados-sprint00.md
@@ -16,4 +18,20 @@ pages:
       - Sprint 03:
         - Planejamento: Sprints/Sprint03/planejamento-sprint03.md
         - Resultado: Sprints/Sprint03/resultados-sprint03.md
+
+    - Release 02:
+      - Planejamento: planejamento_release02.md
+      - Sprint 04:
+        - Planejamento: Sprints/Sprint04/planejamento-sprint04.md
+        - Resultado: Sprints/Sprint04/resultados-sprint04.md
+      - Sprint 05:
+        - Planejamento: Sprints/Sprint05/planejamento-sprint05.md
+        - Resultado: Sprints/Sprint05/resultados-sprint05.md
+      - Sprint 06:
+        - Planejamento: Sprints/Sprint06/planejamento-sprint06.md
+        - Resultado: Sprints/Sprint06/resultados-sprint06.md
+      - Sprint 07:
+        - Planejamento: Sprints/Sprint07/planejamento-sprint07.md
+        - Resultado: Sprints/Sprint07/resultados-sprint07.md
+
 theme: readthedocs
