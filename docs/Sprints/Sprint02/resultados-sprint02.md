@@ -15,11 +15,10 @@ Atividade relativa a adquirir conhecimento a cerca das metodologias de desenvolv
 
 Membros | Git | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap
 ------- | --- | ---- | --- | -------- | ------ | -------------- | ---------
-Aline Laureano de Araújo Vilela   | :( | :D | :D | :( | :( | :) | :(
-Felipe  | :) | :(  | :( | :) | :( | :( | :(
-Luís Cláudio Telles Lima | :) | :(  | :(  | :( | :( | :( | :(
-Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
-Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
+Aline Laureano de Araújo Vilela   | :D | :D | :D | :) | :( | :) | :(
+Felipe  | :D | :(  | :) | :) | :( | :( | :(
+Luís Cláudio Telles Lima | :D | :)  | :(  | :) | :( | :( | :(
+Marcelo Ferreira Magalhães Júnior | :)  | :)  | :(  | :)  | :( | :( | :(
 William Elias Alves | :) | :) | :) | :(  | :( | :( | :(
 
 
