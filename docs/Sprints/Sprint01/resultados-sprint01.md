@@ -1,5 +1,14 @@
 # Resultados
 
+##Status das Issues no Fim da Sprint
+|Issue 	| Status|
+|---|----------|
+|#7 |Concluída |
+|#8 |Concluída |
+|#9 |Concluída |
+|#10 |Concluída |
+|#11 |Concluída |
+
 ## Backlog do Produto
 
 | Id | Nome              | Descrição do item do Backlog | Grau de importância | Estimativa inicial |

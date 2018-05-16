@@ -1,5 +1,10 @@
 # Resultados
 
+##Status das Issues no Fim da Sprint
+|Issue 	| Status|
+|---|----------|
+|#24 |Concluída |
+
 Foi realizado pelos membros do grupo o estudo na linguagem Python e framework Django em
 [https://docs.djangoproject.com/en/2.0/intro](https://docs.djangoproject.com/en/2.0/intro)
 
