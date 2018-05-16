@@ -11,6 +11,11 @@ Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
 Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
 William Elias Alves | :) | :) | :) | :(  | :( | :( | :(
 
-Legenda | Ruim - :( | Bom - :) | Ótimo - :D
-------- | ------- | ------- | ------- |
+  
+  **Legenda**
 
+  * Ruim:   :(
+
+  * Bom:    :)
+
+  * Ótimo:    :D

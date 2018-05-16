@@ -1,10 +1,22 @@
-# Resultados
+# Planejamento da Release 01
 
-Foi realizado pelos membros do grupo o estudo na linguagem Python e framework Django em
-[https://docs.djangoproject.com/en/2.0/intro](https://docs.djangoproject.com/en/2.0/intro)
+* Data de início: 09/04
+* Data de término: 23/05
 
-##Quadro de conhecimentos
+* Quantidade de Sprints: 4 sprints
+* Duração da Sprint: 1 semana
 
+
+# Descrição
+A release é dada como um período extenso de tempo que contém diversas sprints.
+
+
+## Features propostas para a Release:
+
+* FT01 - Ranking de Grupos
+* FT01 - Hall da Fama
+
+## Conhecimento inicial
 Atividade relativa a adquirir conhecimento a cerca das metodologias de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.
 
 

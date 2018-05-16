@@ -2,16 +2,18 @@ site_name: Mandacaru
 pages:
     - Home: index.md
     - Metodologia:  metodologia.md
-    - Sprint 00:
-      - Planejamento: Sprints/Sprint00/planejamento-sprint00.md
-      - Resultado: Sprints/Sprint00/resultados-sprint00.md
-    - Sprint 01:    
-      - Planejamento: Sprints/Sprint01/planejamento-sprint01.md
-      - Resultado: Sprints/Sprint01/resultados-sprint01.md
-    - Sprint 02:    
-      - Planejamento: Sprints/Sprint02/planejamento-sprint02.md
-      - Resultado: Sprints/Sprint02/resultados-sprint02.md
-    - Sprint 03:    
-      - Planejamento: Sprints/Sprint03/planejamento-sprint03.md
-      - Resultado: Sprints/Sprint03/resultados-sprint03.md
+    - Release 01:
+      - Planejamento: Sprints/planejamento_release01.md
+      - Sprint 00:
+        - Planejamento: Sprints/Sprint00/planejamento-sprint00.md
+        - Resultado: Sprints/Sprint00/resultados-sprint00.md
+      - Sprint 01:
+        - Planejamento: Sprints/Sprint01/planejamento-sprint01.md
+        - Resultado: Sprints/Sprint01/resultados-sprint01.md
+      - Sprint 02:
+        - Planejamento: Sprints/Sprint02/planejamento-sprint02.md
+        - Resultado: Sprints/Sprint02/resultados-sprint02.md
+      - Sprint 03:
+        - Planejamento: Sprints/Sprint03/planejamento-sprint03.md
+        - Resultado: Sprints/Sprint03/resultados-sprint03.md
 theme: readthedocs
