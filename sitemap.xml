@@ -3,16 +3,16 @@
 
     
     <url>
-     <loc>/</loc>
-     <lastmod>2018-05-16</lastmod>
+     <loc>None/</loc>
+     <lastmod>2018-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
 
     
     <url>
-     <loc>/metodologia/</loc>
-     <lastmod>2018-05-16</lastmod>
+     <loc>None/metodologia/</loc>
+     <lastmod>2018-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -20,31 +20,37 @@
     
         
     <url>
-     <loc>/planejamento_release01/</loc>
-     <lastmod>2018-05-16</lastmod>
+     <loc>None/Release01/planejamento_release01/</loc>
+     <lastmod>2018-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
+     <loc>None</loc>
+     <lastmod></lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
@@ -54,31 +60,25 @@
     
         
     <url>
-     <loc>/planejamento_release02/</loc>
-     <lastmod>2018-05-16</lastmod>
+     <loc>None/Release02/planejamento_release02/</loc>
+     <lastmod>2018-05-17</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
-     <loc></loc>
-     <lastmod></lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc></loc>
+     <loc>None</loc>
      <lastmod></lastmod>
      <changefreq>daily</changefreq>
     </url>
