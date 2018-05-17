@@ -5,7 +5,7 @@
 Membros | Git | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap
 ------- | --- | ---- | --- | -------- | ------ | -------------- | ---------
 Aline Laureano de Araújo Vilela   | :( | :D | :D | :( | :( | :) | :(
-Felipe  | :) | :(  | :( | :) | :( | :( | :(
+Felipe Agustini | :) | :(  | :( | :) | :( | :( | :(
 Luís Cláudio Telles Lima | :) | :(  | :(  | :( | :( | :( | :(
 Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
 Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :(

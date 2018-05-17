@@ -20,6 +20,11 @@
 
 * Development time: Aline Laureano, Felipe, Luís Claudio e Marcelo Magalhães
 
+* Pares de desenvolvimento (XP): 
+    - Aline / William / Felipe
+    - Luís / Marcelo
+
+
 ## Backlog da Sprint
 Descrição da sprint.
 <br/>
