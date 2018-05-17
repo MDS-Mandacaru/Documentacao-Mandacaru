@@ -4,34 +4,34 @@ pages:
     - Home: index.md
     - Metodologia: metodologia.md
 
-    - Release 01:
-      - Planejamento: planejamento_release01.md
+    - RELEASE 01:
+      - Planejamento da release: Release01/planejamento_release01.md
       - Sprint 00:
-        - Planejamento: Sprints/Sprint00/planejamento-sprint00.md
-        - Resultado: Sprints/Sprint00/resultados-sprint00.md
+        - Planejamento: Release01/Sprint00/planejamento-sprint00.md
+        - Resultado: Release01/Sprint00/resultados-sprint00.md
       - Sprint 01:
-        - Planejamento: Sprints/Sprint01/planejamento-sprint01.md
-        - Resultado: Sprints/Sprint01/resultados-sprint01.md
+        - Planejamento: Release01/Sprint01/planejamento-sprint01.md
+        - Resultado: Release01/Sprint01/resultados-sprint01.md
       - Sprint 02:
-        - Planejamento: Sprints/Sprint02/planejamento-sprint02.md
-        - Resultado: Sprints/Sprint02/resultados-sprint02.md
+        - Planejamento: Release01/Sprint02/planejamento-sprint02.md
+        - Resultado: Release01/Sprint02/resultados-sprint02.md
       - Sprint 03:
-        - Planejamento: Sprints/Sprint03/planejamento-sprint03.md
-        - Resultado: Sprints/Sprint03/resultados-sprint03.md
-
-    - Release 02:
-      - Planejamento: planejamento_release02.md
+        - Planejamento: Release01/Sprint03/planejamento-sprint03.md
+        - Resultado: Release01/Sprint03/resultados-sprint03.md
       - Sprint 04:
-        - Planejamento: Sprints/Sprint04/planejamento-sprint04.md
-        - Resultado: Sprints/Sprint04/resultados-sprint04.md
+        - Planejamento: Release01/Sprint04/planejamento-sprint04.md
+        - Resultado: Release01/Sprint04/resultados-sprint04.md
+
+    - RELEASE 02:
+      - Planejamento da release: Release02/planejamento_release02.md
       - Sprint 05:
-        - Planejamento: Sprints/Sprint05/planejamento-sprint05.md
-        - Resultado: Sprints/Sprint05/resultados-sprint05.md
+        - Planejamento: Release02/Sprint05/planejamento-sprint05.md
+        - Resultado: Release02/Sprint05/resultados-sprint05.md
       - Sprint 06:
-        - Planejamento: Sprints/Sprint06/planejamento-sprint06.md
-        - Resultado: Sprints/Sprint06/resultados-sprint06.md
+        - Planejamento: Release02/Sprint06/planejamento-sprint06.md
+        - Resultado: Release02/Sprint06/resultados-sprint06.md
       - Sprint 07:
-        - Planejamento: Sprints/Sprint07/planejamento-sprint07.md
-        - Resultado: Sprints/Sprint07/resultados-sprint07.md
+        - Planejamento: Release02/Sprint07/planejamento-sprint07.md
+        - Resultado: Release02/Sprint07/resultados-sprint07.md
 
 theme: readthedocs
