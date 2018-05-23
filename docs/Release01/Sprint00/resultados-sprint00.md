@@ -27,23 +27,23 @@ Durante esta sprint foram decididos os seguintes items:
 Atividade relativa a adquirir conhecimento a cerca das metodologias de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.
 
 
-Membros | Git | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap
+Membros | Git/GitHub | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap
 ------- | --- | ---- | --- | -------- | ------ | -------------- | ---------
-Aline Laureano de Araújo Vilela   | :( | :D | :D | :( | :( | :) | :(
-Felipe  | :) | :(  | :( | :) | :( | :( | :(
-Luís Cláudio Telles Lima | :) | :(  | :(  | :( | :( | :( | :(
-Marcelo Ferreira Magalhães Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
-Milton Juliano da Silva Júnior | :(  | :(  | :(  | :(  | :( | :( | :(
-William Elias Alves | :) | :) | :) | :(  | :( | :( | :(
+Aline Laureano de Araújo Vilela   | ![Ruim](../../img/sad.png) | ![Ótimo](../../img/cool.png) | ![Ótimo](../../img/cool.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)
+Felipe Agustini | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+Luís Cláudio Telles Lima | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+Marcelo Ferreira Magalhães Júnior | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+Milton Juliano da Silva Júnior | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+William Elias Alves | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
 
 
-  **Legenda**
 
-  * Ruim:   :(
-
-  * Bom:    :)
-
-  * Ótimo:    :D
+Legenda |  
+:-----|:------:
+ Ruim: | ![Ruim](../../img/sad.png)
+ Regular: | ![Regular](../../img/thinking.png) 
+ Bom: | ![Bom](../../img/happy.png)
+ Ótimo: | ![Ótimo](../../img/cool.png)
 
 
 ##Gráfico de burndown
