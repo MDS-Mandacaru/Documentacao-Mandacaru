@@ -1,5 +1,7 @@
 # Resultados
 
+***
+
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
@@ -14,6 +16,7 @@
 |#23 |Concluída |
 |#25 |Concluída |
 
+***
 
 ##Quadro de conhecimentos
 
@@ -32,6 +35,7 @@ William Elias Alves | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png) 
  Bom: | ![Bom](../../img/happy.png)
  Ótimo: | ![Ótimo](../../img/cool.png)
 
+***
 
 ##Gráfico de burndown
-![burndown_sprint03](/img/burndown_sprint03.png)
+![Burndown Sprint03](/img/burndown_sprint03.png)

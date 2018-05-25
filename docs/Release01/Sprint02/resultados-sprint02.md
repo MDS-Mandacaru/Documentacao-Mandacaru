@@ -1,5 +1,7 @@
 # Resultados
 
+***
+
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
@@ -7,6 +9,8 @@
 
 Foi realizado pelos membros do grupo o estudo na linguagem Python e framework Django em
 [https://docs.djangoproject.com/en/2.0/intro](https://docs.djangoproject.com/en/2.0/intro)
+
+***
 
 ##Quadro de conhecimentos
 
@@ -27,6 +31,8 @@ Legenda |
  Regular: | ![Regular](../../img/thinking.png) 
  Bom: | ![Bom](../../img/happy.png)
  Ótimo: | ![Ótimo](../../img/cool.png)
+
+***
 
 ##Gráfico de burndown
 ![burndown_sprint02](/img/burndown_sprint02.png)

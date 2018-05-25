@@ -1,5 +1,7 @@
 # Resultados
 
+***
+
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
@@ -23,6 +25,8 @@ Durante esta sprint foram decididos os seguintes items:
 - Dia e horario da sprint review
     - Foi decidido que o sprint review acontecerá aos sábados.
 
+***
+
 ##Quadro de conhecimentos
 Atividade relativa a adquirir conhecimento a cerca das metodologias de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.
 
@@ -45,10 +49,12 @@ Legenda |
  Bom: | ![Bom](../../img/happy.png)
  Ótimo: | ![Ótimo](../../img/cool.png)
 
+***
 
 ##Gráfico de burndown
 ![burndown_sprint00](/img/burndown_sprint00.png)
 
+***
 
 ## Resumo de tecnologias ágeis
 

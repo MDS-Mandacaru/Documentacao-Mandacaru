@@ -1,5 +1,7 @@
 # Resultados
 
+***
+
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
@@ -9,12 +11,16 @@
 |#10 |Concluída |
 |#11 |Concluída |
 
+***
+
 ## Backlog do Produto
 
 | Id | Nome              | Descrição do item do Backlog | Grau de importância | Estimativa inicial |
 |----|----|----|----|----|
 | 1  | Ranking de Grupos | Os usuários da aplicação poderão visualizar o Ranking dos Grupos da disciplina   | Alto  | 5  |
 | 2  | Hall da Fama      | Os usuários da aplicação poderão visualizar o Hall da fama dos grupos da disciplina  | Alto  | 5  |
+
+***
 
 #### Notas a respeito dos itens do Backlog do Produto
 
@@ -37,6 +43,7 @@
 - É a continuação do Ranking, pois ao final da disciplina o grupo com a maior pontuação deverá ser condecorado e exposto nos semestres seguintes.
 - Ele será atualizado ao final de cada período letivo da disciplina
 
+***
 
 ##Quadro de conhecimentos
 

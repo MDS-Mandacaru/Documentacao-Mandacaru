@@ -3,7 +3,7 @@
 |Número da sprint 	| 04|
 |---------|-|
 |Data de início 	| 16/05/2018|
-|Data de término 	| 23/05/2018|
+|Data de término 	| 25/05/2018|
 
 ### Reunião
 **Data:** 16/05
@@ -21,8 +21,8 @@
 * Development time: William Elias, Felipe Agustini, Luís Claudio e Marcelo Magalhães
 
 * Pares de desenvolvimento (XP):
-    - Aline / William / Felipe
-    - Luís / Marcelo
+    - Aline / William / Marcelo
+    - Luís / Felipe
 
 ## Backlog da Sprint
 Issues definidas para serem trabalhadas no decorrer dessa sprint:
