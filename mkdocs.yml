@@ -24,12 +24,12 @@ pages:
       - Sprint 05:
         - Planejamento: Release01/Sprint05/planejamento-sprint05.md
         - Resultado: Release01/Sprint05/resultados-sprint05.md
+      - Sprint 06:
+        - Planejamento: Release01/Sprint06/planejamento-sprint06.md
+        - Resultado: Release01/Sprint06/resultados-sprint06.md
 
     - RELEASE 02:
       - Planejamento da release: Release02/planejamento_release02.md
-      - Sprint 06:
-        - Planejamento: Release02/Sprint06/planejamento-sprint06.md
-        - Resultado: Release02/Sprint06/resultados-sprint06.md
       - Sprint 07:
         - Planejamento: Release02/Sprint07/planejamento-sprint07.md
         - Resultado: Release02/Sprint07/resultados-sprint07.md

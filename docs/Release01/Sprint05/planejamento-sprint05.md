@@ -35,10 +35,20 @@ Issues definidas para serem trabalhadas no decorrer dessa sprint:
 
 ***
 
-  **Issue #32** Melhorar a experiência do usuário (UX) nas aplicações Ranking Group e Hall of Fame.<br/>
-  **Tarefas:**  
+  **Issue #32** Melhorar a experiência do usuário (UX) nas aplicações Ranking Group e Hall of Fame.<br/>  
 
       Critérios de aceitação:
 
       - Os usuários deverão ter um feedback visual em forma de mensagens relacionados: a listagem do 
       Ranking Group, ao fechamento ou abertura de uma disciplina e visualização do Hall of Fame.
+
+
+***
+
+  **Issue #33** Refatorar mensagens para que estejam todas no mesmo idioma e adicionar comentários ao código (inglês).<br/>
+
+      Critérios de aceitação:
+
+      - Todas as mensagens estão em inglês.
+
+      - Comentários explicativos do código adicionados em inglês.

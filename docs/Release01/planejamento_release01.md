@@ -1,10 +1,10 @@
 # Planejamento da Release 01
 
 * Data de início: 09/04
-* Data de término: 23/05
+* Data de término: 30/05
 
-* Quantidade de Sprints: 4 sprints
-* Duração da Sprint: 1 semana
+* Quantidade de Sprints: 6 sprints
+* Duração da Sprint: em média 1 semana
 
 
 # Descrição
@@ -13,8 +13,8 @@ A release é dada como um período extenso de tempo que contém diversas sprints
 
 ## Features propostas para a Release:
 
-* FT01 - Ranking de Grupos
-* FT02 - Hall da Fama
+* [FT01] Ranking de Grupos
+* [FT02] Hall da Fama
 
 
 ## Conhecimento inicial
