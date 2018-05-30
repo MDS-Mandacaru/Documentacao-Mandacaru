@@ -6,6 +6,36 @@ Nesta página encontra-se todos os artefatos da documentação oficial [TBL](htt
 
 # Product Backlog
 
+## Histórias de usuário e backlog das Sprints
+
+### Sprint00
+
+![Sprint00](img/backlog00.png)
+
+### Sprint01
+
+![Sprint01](img/backlog01.png)
+
+### Sprint02
+
+![Sprint02](img/backlog02.png)
+
+### Sprint03
+
+![Sprint03](img/backlog03.png)
+
+### Sprint04
+
+![Sprint04](img/backlog04.png)
+
+### Sprint05
+
+![Sprint05](img/backlog05.png)
+
+### Sprint06
+
+![Sprint06](img/backlog06.png)
+
 ***
 
 # Diagrama de classe
