@@ -40,6 +40,6 @@ Legenda |
 ***
 
 ##Gráfico de burndown
-![Burndown Sprint04](/img/burndown_sprint05.png)
+![Burndown Sprint05](/img/burndown_sprint05.png)
 
 ***

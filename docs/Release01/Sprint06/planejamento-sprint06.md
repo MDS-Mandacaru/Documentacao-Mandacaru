@@ -32,8 +32,6 @@ Sprint dedicada à etapa final da RELEASE 1: criação de testes unitários, atu
 
     - Criados possíveis testes unitários referente ao app: Hall of Fame.
 
-    Dead line desta issue: 30/05/2018 até ás 12:00h.
-
 ***
 
 **Issue #34** Apresentar a visualização dos grupos condecorados no Hall of Fame de forma ordenada.<br/>
@@ -52,7 +50,7 @@ Sprint dedicada à etapa final da RELEASE 1: criação de testes unitários, atu
 
     Critérios de aceitação:
 
-    - Campos para filtrar a pesquisa por ano e por grupo devidamente criados no template do Hall of Fame.
+    - Campo para filtrar a pesquisa por ano devidamente criado no template do Hall of Fame.
 
     - BackEnd para o funcionamento dos campos de pesquisa criado.
 
