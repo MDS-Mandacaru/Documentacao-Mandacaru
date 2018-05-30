@@ -71,11 +71,18 @@
             
                 <li class="toctree-l3"><a href="#artefatos-para-documentacao-oficial">Artefatos para documentação oficial</a></li>
                 
-                    <li><a class="toctree-l4" href="#product-backlog">Product Backlog</a></li>
+            
+                <li class="toctree-l3"><a href="#product-backlog">Product Backlog</a></li>
                 
-                    <li><a class="toctree-l4" href="#diagrama-de-classe">Diagrama de classe</a></li>
+            
+                <li class="toctree-l3"><a href="#diagrama-de-classe">Diagrama de classe</a></li>
                 
-                    <li><a class="toctree-l4" href="#mer">MER</a></li>
+            
+                <li class="toctree-l3"><a href="#mer">MER</a></li>
+                
+                    <li><a class="toctree-l4" href="#entidades-e-atributos">Entidades e Atributos</a></li>
+                
+                    <li><a class="toctree-l4" href="#relacionamentos-entre-classes">Relacionamentos entre classes</a></li>
                 
             
             </ul>
@@ -327,10 +334,142 @@
 <li>Group Ranking</li>
 <li>Hall of Fame</li>
 </ul>
-<h2 id="product-backlog">Product Backlog</h2>
-<h2 id="diagrama-de-classe">Diagrama de classe</h2>
+<h1 id="product-backlog">Product Backlog</h1>
+<hr />
+<h1 id="diagrama-de-classe">Diagrama de classe</h1>
 <p><img alt="Diagrama de classe" src="../img/diagram_classe2.png" /></p>
-<h2 id="mer">MER</h2>
+<hr />
+<h1 id="mer">MER</h1>
+<h2 id="entidades-e-atributos"><strong>Entidades e Atributos</strong></h2>
+<h3 id="groupranking"><strong>GroupRanking</strong>:</h3>
+<table>
+<thead>
+<tr>
+<th>Atributo</th>
+<th>Tipo</th>
+<th>Característica</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>discipline_id</td>
+<td>Discipline</td>
+<td>obrigatório</td>
+<td>Disciplina na qual o Ranking de grupos pertence.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="groupinfo"><strong>GroupInfo</strong>:</h3>
+<table>
+<thead>
+<tr>
+<th>Atributo</th>
+<th>Tipo</th>
+<th>Característica</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>results</td>
+<td>float</td>
+<td>automático, padrão 0</td>
+<td>Nota de desempenho do grupo com a média de todas as suas avaliações iRAT, gRAT, prática e em pares.</td>
+</tr>
+<tr>
+<td>group_id</td>
+<td>Group</td>
+<td>obrigatório</td>
+<td>Grupo na qual estas informações pertencem.</td>
+</tr>
+<tr>
+<td>ranking_id</td>
+<td>GroupRanking</td>
+<td>obrigatório</td>
+<td>Ranking de grupos no qual este GroupInfo está vinculado.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="halloffame"><strong>HallOfFame</strong>:</h3>
+<table>
+<thead>
+<tr>
+<th>Atributo</th>
+<th>Tipo</th>
+<th>Característica</th>
+<th>Descrição</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>year</td>
+<td>inteiro positivo</td>
+<td>obrigatório</td>
+<td>Ano no qual este objeto do HallOfFame pertence.</td>
+</tr>
+<tr>
+<td>semester</td>
+<td>inteiro positivo</td>
+<td>opcional, padrão 0</td>
+<td>Semestre no qual este objeto do HallOfFame pertence.</td>
+</tr>
+<tr>
+<td>discipline_id</td>
+<td>Discipline</td>
+<td>obrigatório</td>
+<td>Disciplina no qual este objeto do HallOfFame pertence.</td>
+</tr>
+<tr>
+<td>group_info_id</td>
+<td>GroupInfo</td>
+<td>obrigatório</td>
+<td>GroupInfo vinculado a este objeto do HallOfFame.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="relacionamentos-entre-classes"><strong>Relacionamentos entre classes</strong></h2>
+<p>GROUPRANKING tem DISCIPLINE:</p>
+<ul>
+<li>Um ranking de grupos deve ter uma disciplina, e uma disciplina pode ter vários rankings de grupos.</li>
+<li>Cardinalidade: Nx1</li>
+</ul>
+<p>GROUPINFO tem GROUP:</p>
+<ul>
+<li>Uma informações de um grupo deve ter um grupo, e um grupo deve ter uma informações de um grupo.</li>
+<li><strong>Cardinalidade:</strong> 1x1</li>
+</ul>
+<p>GROUPINFO tem GROUPRANKING:</p>
+<ul>
+<li>Uma informações de um grupo deve ter um ranking de grupo, e um ranking de grupos pode ter várias informações de grupos.</li>
+<li><strong>Cardinalidade:</strong> Nx1</li>
+</ul>
+<p>HALLOFFAME tem DISCIPLINE:</p>
+<ul>
+<li>Um hall da fama deve ter uma disciplina, e uma disciplina pode ter vários halls da fama.</li>
+<li><strong>Cardinalidade:</strong> Nx1</li>
+</ul>
+<p>HALLOFFAME tem GROUPINFO:</p>
+<ul>
+<li>Um hall da fama deve ter uma infromações de um grupo, e uma informações de um grupo pode ter um hall da fama.</li>
+<li><strong>Cardinalidade:</strong> 1x1</li>
+</ul>
+<p>GROUPINFO pertence HALLOFFAME:</p>
+<ul>
+<li>Uma informações de um grupo pode pertencer a um hall da fama, porém um hall da fama pode ter várias infromações de um grupo.</li>
+<li><strong>Cardinalidade:</strong> Nx1</li>
+</ul>
+<p>HALLOFFAME pertence DICIPLINE:</p>
+<ul>
+<li>Um hall da fama pertence a uma disciplina, porém uma disciplina pode ter vários halls da fama.</li>
+<li><strong>Cardinalidade:</strong> Nx1</li>
+</ul>
+<p>GROUPRANKING pertence DISCIPLINE:</p>
+<ul>
+<li>Um ranking de grupos peetence a uma disciplina, porém uma disciplina pode ter vários rankings de grupos diferentes.</li>
+<li><strong>Cardinalidade:</strong> Nx1</li>
+</ul>
+<hr />
               
             </div>
           </div>
