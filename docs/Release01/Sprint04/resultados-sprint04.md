@@ -37,7 +37,6 @@ Aline Laureano de Araújo Vilela   | ![Bom](../../img/happy.png) | ![Ótimo](../
 Felipe Agustini | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
 Luís Cláudio Telles Lima | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
 Marcelo Ferreira Magalhães Júnior | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
-Milton Juliano da Silva Júnior | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
 William Elias Alves | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
 
 Legenda |  

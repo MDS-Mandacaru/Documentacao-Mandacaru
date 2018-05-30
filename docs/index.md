@@ -2,6 +2,10 @@
 
 ***
 
+Acesse nosso repositório no GitHub: [Mandacarú-GitHub](https://github.com/MDS-Mandacaru)
+
+***
+
 ##Integrantes
 
 | Matrícula | Nome 
@@ -12,9 +16,5 @@
 | 15/0138946 | Marcelo Ferreira Magalhães Júnior 
 | 16/0139031 | Milton Juliano da Silva Júnior 
 | 16/0149053 | William Elias Alves 
-
-***
-
-## Acesso ao nosso repositório no GitHub: [MDS-Mandacaru](https://github.com/MDS-Mandacaru)
 
 ***
