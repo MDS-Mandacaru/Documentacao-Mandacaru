@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/",
-            "text": "Mandacaru\n\n\nRepositorio: \nMDS-Mandacaru",
+            "text": "Grupo Mandacar\u00fa\n\n\n\n\nIntegrantes\n\n\n\n\n\n\n\n\nMatr\u00edcula\n\n\nNome\n\n\n\n\n\n\n\n\n\n\n15/0115814\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n\n\n\n\n14/0059903\n\n\nFelipe Agustini\n\n\n\n\n\n\n16/0153204\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n\n\n\n\n15/0138946\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n\n\n\n\n16/0139031\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n\n\n\n\n16/0149053\n\n\nWilliam Elias Alves\n\n\n\n\n\n\n\n\n\n\nAcesso ao nosso reposit\u00f3rio no GitHub: \nMDS-Mandacaru",
             "title": "Home"
         },
         {
-            "location": "/#mandacaru",
+            "location": "/#grupo-mandacaru",
             "text": "",
-            "title": "Mandacaru"
+            "title": "Grupo Mandacar\u00fa"
         },
         {
-            "location": "/#repositorio-mds-mandacaru",
+            "location": "/#integrantes",
+            "text": "Matr\u00edcula  Nome      15/0115814  Aline Laureano de Ara\u00fajo Vilela    14/0059903  Felipe Agustini    16/0153204  Lu\u00eds Cl\u00e1udio Telles Lima    15/0138946  Marcelo Ferreira Magalh\u00e3es J\u00fanior    16/0139031  Milton Juliano da Silva J\u00fanior    16/0149053  William Elias Alves",
+            "title": "Integrantes"
+        },
+        {
+            "location": "/#acesso-ao-nosso-repositorio-no-github-mds-mandacaru",
             "text": "",
-            "title": "Repositorio: MDS-Mandacaru"
+            "title": "Acesso ao nosso reposit\u00f3rio no GitHub: MDS-Mandacaru"
         },
         {
             "location": "/metodologia/",
@@ -72,12 +77,12 @@
         },
         {
             "location": "/Release01/planejamento_release01/",
-            "text": "Planejamento da Release 01\n\n\n\n\nData de in\u00edcio: 09/04\n\n\n\n\nData de t\u00e9rmino: 23/05\n\n\n\n\n\n\nQuantidade de Sprints: 4 sprints\n\n\n\n\nDura\u00e7\u00e3o da Sprint: 1 semana\n\n\n\n\nDescri\u00e7\u00e3o\n\n\nA release \u00e9 dada como um per\u00edodo extenso de tempo que cont\u00e9m diversas sprints.\n\n\nFeatures propostas para a Release:\n\n\n\n\nFT01 - Ranking de Grupos\n\n\nFT02 - Hall da Fama\n\n\n\n\nConhecimento inicial\n\n\nAtividade relativa a adquirir conhecimento a cerca das metodologias de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.\n\n\n\n\n\n\n\n\nMembros\n\n\nGit/GitHub\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFelipe Agustini\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLegenda\n\n\n\n\n\n\n\n\n\n\n\n\nRuim:\n\n\n\n\n\n\n\n\nRegular:\n\n\n\n\n\n\n\n\nBom:\n\n\n\n\n\n\n\n\n\u00d3timo:",
+            "text": "Planejamento da Release 01\n\n\n\n\nData de in\u00edcio: 09/04\n\n\n\n\nData de t\u00e9rmino: 30/05\n\n\n\n\n\n\nQuantidade de Sprints: 6 sprints\n\n\n\n\nDura\u00e7\u00e3o da Sprint: em m\u00e9dia 1 semana\n\n\n\n\nDescri\u00e7\u00e3o\n\n\nA release \u00e9 dada como um per\u00edodo extenso de tempo que cont\u00e9m diversas sprints.\n\n\nFeatures propostas para a Release:\n\n\n\n\n[FT01] Ranking de Grupos\n\n\n[FT02] Hall da Fama\n\n\n\n\nConhecimento inicial\n\n\nAtividade relativa a adquirir conhecimento a cerca das metodologias de desenvolvimento xp, scrum, tecnologias de desenvolviemnto e exibir em forma de tabela.\n\n\n\n\n\n\n\n\nMembros\n\n\nGit/GitHub\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFelipe Agustini\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLegenda\n\n\n\n\n\n\n\n\n\n\n\n\nRuim:\n\n\n\n\n\n\n\n\nRegular:\n\n\n\n\n\n\n\n\nBom:\n\n\n\n\n\n\n\n\n\u00d3timo:",
             "title": "Planejamento da release"
         },
         {
             "location": "/Release01/planejamento_release01/#planejamento-da-release-01",
-            "text": "Data de in\u00edcio: 09/04   Data de t\u00e9rmino: 23/05    Quantidade de Sprints: 4 sprints   Dura\u00e7\u00e3o da Sprint: 1 semana",
+            "text": "Data de in\u00edcio: 09/04   Data de t\u00e9rmino: 30/05    Quantidade de Sprints: 6 sprints   Dura\u00e7\u00e3o da Sprint: em m\u00e9dia 1 semana",
             "title": "Planejamento da Release 01"
         },
         {
@@ -87,7 +92,7 @@
         },
         {
             "location": "/Release01/planejamento_release01/#features-propostas-para-a-release",
-            "text": "FT01 - Ranking de Grupos  FT02 - Hall da Fama",
+            "text": "[FT01] Ranking de Grupos  [FT02] Hall da Fama",
             "title": "Features propostas para a Release:"
         },
         {
@@ -302,7 +307,7 @@
         },
         {
             "location": "/Release01/Sprint05/planejamento-sprint05/",
-            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n05\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\n25/05/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\n28/05/2018\n\n\n\n\n\n\n\n\nReuni\u00e3o\n\n\nData:\n 25/05\n\n\nHor\u00e1rio:\n 10:00 \u00e0s 11:00\n\n\nLocal:\n Hangout (Chamada de v\u00eddeo do Google)\n\n\nDados da Sprint\n\n\n\n\nHor\u00e1rio daily meeting: 21:00\n\n\n\n\nPap\u00e9is\n\n\n\n\n\n\nScrum Master: Aline Laureano\n\n\n\n\n\n\nDevelopment time: William Elias, Felipe Agustini, Lu\u00eds Claudio e Marcelo Magalh\u00e3es\n\n\n\n\n\n\nBacklog da Sprint\n\n\nIssues definidas para serem trabalhadas no decorrer dessa sprint:\n\n\n\n\n\nIssue #31\n Refatora\u00e7\u00e3o/melhorias de detalhes das aplica\u00e7\u00f5es Ranking Group e Hall of Fame.\n\n\nCrit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Corrigir dimensionamento do bot\u00e3o de acesso ao Hall of Fame.\n\n- Adicionar verifica\u00e7\u00e3o de exist\u00eancia de groups_info no ranking.\n\n\n\n\n\nIssue #32\n Melhorar a experi\u00eancia do usu\u00e1rio (UX) nas aplica\u00e7\u00f5es Ranking Group e Hall of Fame.\n\n  \nTarefas:\n  \n\n\n  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Os usu\u00e1rios dever\u00e3o ter um feedback visual em forma de mensagens relacionados: a listagem do \n  Ranking Group, ao fechamento ou abertura de uma disciplina e visualiza\u00e7\u00e3o do Hall of Fame.",
+            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n05\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\n25/05/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\n28/05/2018\n\n\n\n\n\n\n\n\nReuni\u00e3o\n\n\nData:\n 25/05\n\n\nHor\u00e1rio:\n 10:00 \u00e0s 11:00\n\n\nLocal:\n Hangout (Chamada de v\u00eddeo do Google)\n\n\nDados da Sprint\n\n\n\n\nHor\u00e1rio daily meeting: 21:00\n\n\n\n\nPap\u00e9is\n\n\n\n\n\n\nScrum Master: Aline Laureano\n\n\n\n\n\n\nDevelopment time: William Elias, Felipe Agustini, Lu\u00eds Claudio e Marcelo Magalh\u00e3es\n\n\n\n\n\n\nBacklog da Sprint\n\n\nIssues definidas para serem trabalhadas no decorrer dessa sprint:\n\n\n\n\n\nIssue #31\n Refatora\u00e7\u00e3o/melhorias de detalhes das aplica\u00e7\u00f5es Ranking Group e Hall of Fame.\n\n\nCrit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Corrigir dimensionamento do bot\u00e3o de acesso ao Hall of Fame.\n\n- Adicionar verifica\u00e7\u00e3o de exist\u00eancia de groups_info no ranking.\n\n\n\n\n\nIssue #32\n Melhorar a experi\u00eancia do usu\u00e1rio (UX) nas aplica\u00e7\u00f5es Ranking Group e Hall of Fame.\n  \n\n\n  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Os usu\u00e1rios dever\u00e3o ter um feedback visual em forma de mensagens relacionados: a listagem do \n  Ranking Group, ao fechamento ou abertura de uma disciplina e visualiza\u00e7\u00e3o do Hall of Fame.\n\n\n\n\n\nIssue #33\n Refatorar mensagens para que estejam todas no mesmo idioma e adicionar coment\u00e1rios ao c\u00f3digo (ingl\u00eas).\n\n\n  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Todas as mensagens est\u00e3o em ingl\u00eas.\n\n  - Coment\u00e1rios explicativos do c\u00f3digo adicionados em ingl\u00eas.",
             "title": "Planejamento"
         },
         {
@@ -312,12 +317,12 @@
         },
         {
             "location": "/Release01/Sprint05/planejamento-sprint05/#backlog-da-sprint",
-            "text": "Issues definidas para serem trabalhadas no decorrer dessa sprint:   Issue #31  Refatora\u00e7\u00e3o/melhorias de detalhes das aplica\u00e7\u00f5es Ranking Group e Hall of Fame.  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Corrigir dimensionamento do bot\u00e3o de acesso ao Hall of Fame.\n\n- Adicionar verifica\u00e7\u00e3o de exist\u00eancia de groups_info no ranking.   Issue #32  Melhorar a experi\u00eancia do usu\u00e1rio (UX) nas aplica\u00e7\u00f5es Ranking Group e Hall of Fame. \n   Tarefas:       Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Os usu\u00e1rios dever\u00e3o ter um feedback visual em forma de mensagens relacionados: a listagem do \n  Ranking Group, ao fechamento ou abertura de uma disciplina e visualiza\u00e7\u00e3o do Hall of Fame.",
+            "text": "Issues definidas para serem trabalhadas no decorrer dessa sprint:   Issue #31  Refatora\u00e7\u00e3o/melhorias de detalhes das aplica\u00e7\u00f5es Ranking Group e Hall of Fame.  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Corrigir dimensionamento do bot\u00e3o de acesso ao Hall of Fame.\n\n- Adicionar verifica\u00e7\u00e3o de exist\u00eancia de groups_info no ranking.   Issue #32  Melhorar a experi\u00eancia do usu\u00e1rio (UX) nas aplica\u00e7\u00f5es Ranking Group e Hall of Fame.       Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Os usu\u00e1rios dever\u00e3o ter um feedback visual em forma de mensagens relacionados: a listagem do \n  Ranking Group, ao fechamento ou abertura de uma disciplina e visualiza\u00e7\u00e3o do Hall of Fame.   Issue #33  Refatorar mensagens para que estejam todas no mesmo idioma e adicionar coment\u00e1rios ao c\u00f3digo (ingl\u00eas).    Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Todas as mensagens est\u00e3o em ingl\u00eas.\n\n  - Coment\u00e1rios explicativos do c\u00f3digo adicionados em ingl\u00eas.",
             "title": "Backlog da Sprint"
         },
         {
             "location": "/Release01/Sprint05/resultados-sprint05/",
-            "text": "Resultados",
+            "text": "Resultados\n\n\n\n\nStatus das Issues no Fim da Sprint\n\n\n\n\n\n\n\n\nIssue\n\n\nStatus\n\n\n\n\n\n\n\n\n\n\n#31\n\n\nConclu\u00edda\n\n\n\n\n\n\n#32\n\n\nConclu\u00edda\n\n\n\n\n\n\n#33\n\n\nConclu\u00edda\n\n\n\n\n\n\n\n\n\n\nPresen\u00e7a do time nas \ndaily meetings\n\n\n\n\n\n\n\n\nData\n\n\nAline\n\n\nFelipe\n\n\nLu\u00eds\n\n\nMarcelo\n\n\nWilliam\n\n\n\n\n\n\n\n\n\n\n25/05\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n26/05\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n28/05\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nQuadro de conhecimentos\n\n\n\n\n\n\n\n\nMembros\n\n\nGit/GitHub\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFelipe Agustini\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLegenda\n\n\n\n\n\n\n\n\n\n\n\n\nRuim:\n\n\n\n\n\n\n\n\nRegular:\n\n\n\n\n\n\n\n\nBom:\n\n\n\n\n\n\n\n\n\u00d3timo:\n\n\n\n\n\n\n\n\n\n\n\n\nGr\u00e1fico de burndown",
             "title": "Resultado"
         },
         {
@@ -326,13 +331,63 @@
             "title": "Resultados"
         },
         {
+            "location": "/Release01/Sprint05/resultados-sprint05/#status-das-issues-no-fim-da-sprint",
+            "text": "Issue  Status      #31  Conclu\u00edda    #32  Conclu\u00edda    #33  Conclu\u00edda",
+            "title": "Status das Issues no Fim da Sprint"
+        },
+        {
+            "location": "/Release01/Sprint05/resultados-sprint05/#presenca-do-time-nas-daily-meetings",
+            "text": "Data  Aline  Felipe  Lu\u00eds  Marcelo  William      25/05         26/05         28/05",
+            "title": "Presen\u00e7a do time nas daily meetings"
+        },
+        {
+            "location": "/Release01/Sprint05/resultados-sprint05/#quadro-de-conhecimentos",
+            "text": "Membros  Git/GitHub  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela           Felipe Agustini           Lu\u00eds Cl\u00e1udio Telles Lima           Marcelo Ferreira Magalh\u00e3es J\u00fanior           Milton Juliano da Silva J\u00fanior           William Elias Alves               Legenda       Ruim:     Regular:     Bom:     \u00d3timo:",
+            "title": "Quadro de conhecimentos"
+        },
+        {
+            "location": "/Release01/Sprint05/resultados-sprint05/#grafico-de-burndown",
+            "text": "",
+            "title": "Gr\u00e1fico de burndown"
+        },
+        {
+            "location": "/Release01/Sprint06/planejamento-sprint06/",
+            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n06\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\nXX/0X/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\nXX/0X/2018\n\n\n\n\n\n\n\n\nReuni\u00e3o\n\n\nData:\n XX/0X\n\n\nHor\u00e1rio:\n XX:XX \u00e0s XX:XX\n\n\nLocal:\n A COMPLETAR\n\n\nDados da Sprint\n\n\n\n\nHor\u00e1rio daily meeting: XX:XX\n\n\n\n\nPap\u00e9is\n\n\n\n\n\n\nScrum Master: A DEFINIR\n\n\n\n\n\n\nDevelopment time: A DEFINR\n\n\n\n\n\n\nBacklog da Sprint\n\n\nDescri\u00e7\u00e3o da sprint.\n\n\n\n\n\nIssue XX\n - A DEFINR\n\n \nTarefas:\n\n    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nCrit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet\n\n\n\n\n\nIssue XX\n -A DEFINIR \n\n  \nTarefas:\n\n      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet",
+            "title": "Planejamento"
+        },
+        {
+            "location": "/Release01/Sprint06/planejamento-sprint06/#planejamento",
+            "text": "N\u00famero da sprint  06      Data de in\u00edcio  XX/0X/2018    Data de t\u00e9rmino  XX/0X/2018     Reuni\u00e3o  Data:  XX/0X  Hor\u00e1rio:  XX:XX \u00e0s XX:XX  Local:  A COMPLETAR  Dados da Sprint   Hor\u00e1rio daily meeting: XX:XX   Pap\u00e9is    Scrum Master: A DEFINIR    Development time: A DEFINR",
+            "title": "Planejamento"
+        },
+        {
+            "location": "/Release01/Sprint06/planejamento-sprint06/#backlog-da-sprint",
+            "text": "Descri\u00e7\u00e3o da sprint.   Issue XX  - A DEFINR \n  Tarefas: \n    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet   Issue XX  -A DEFINIR  \n   Tarefas: \n      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.    Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet",
+            "title": "Backlog da Sprint"
+        },
+        {
+            "location": "/Release01/Sprint06/resultados-sprint06/",
+            "text": "Resultados\n\n\nQuadro de conhecimentos\n\n\n\n\n\n\n\n\nMembros\n\n\nGit\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n:(\n\n\n:D\n\n\n:D\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n\n\n\n\nFelipe\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n:)\n\n\n:)\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\n\n\nLegenda\n\n\n\n\n\n\nRuim:   :(\n\n\n\n\n\n\nBom:    :)\n\n\n\n\n\n\n\u00d3timo:    :D",
+            "title": "Resultado"
+        },
+        {
+            "location": "/Release01/Sprint06/resultados-sprint06/#resultados",
+            "text": "",
+            "title": "Resultados"
+        },
+        {
+            "location": "/Release01/Sprint06/resultados-sprint06/#quadro-de-conhecimentos",
+            "text": "Membros  Git  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela  :(  :D  :D  :(  :(  :)  :(    Felipe  :)  :(  :(  :)  :(  :(  :(    Lu\u00eds Cl\u00e1udio Telles Lima  :)  :(  :(  :(  :(  :(  :(    Marcelo Ferreira Magalh\u00e3es J\u00fanior  :(  :(  :(  :(  :(  :(  :(    Milton Juliano da Silva J\u00fanior  :(  :(  :(  :(  :(  :(  :(    William Elias Alves  :)  :)  :)  :(  :(  :(  :(     Legenda    Ruim:   :(    Bom:    :)    \u00d3timo:    :D",
+            "title": "Quadro de conhecimentos"
+        },
+        {
             "location": "/Release02/planejamento_release02/",
-            "text": "Planejamento da Release 02\n\n\n\n\nData de in\u00edcio: 23/05\n\n\n\n\nData de t\u00e9rmino: 25/06\n\n\n\n\n\n\nQuantidade de Sprints: 4 sprints\n\n\n\n\nDura\u00e7\u00e3o da Sprint: 1 semana\n\n\n\n\nDescri\u00e7\u00e3o\n\n\nA release \u00e9 dada como um per\u00edodo extenso de tempo que cont\u00e9m diversas sprints.\n\n\nFeatures propostas para a Release:\n\n\n\n\nFT01 - ND\n\n\nFT02 - ND\n\n\n\n\nConhecimento inicial\n\n\n\n\n\n\n\n\nMembros\n\n\nGit\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n:(\n\n\n:D\n\n\n:D\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n\n\n\n\nFelipe\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n:)\n\n\n:)\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\n\n\nLegenda\n\n\n\n\n\n\nRuim:   :(\n\n\n\n\n\n\nBom:    :)\n\n\n\n\n\n\n\u00d3timo:    :D",
+            "text": "Planejamento da Release 02\n\n\n\n\nData de in\u00edcio: --\n\n\n\n\nData de t\u00e9rmino: --\n\n\n\n\n\n\nQuantidade de Sprints: --\n\n\n\n\nDura\u00e7\u00e3o da Sprint: em m\u00e9dia 1 semana\n\n\n\n\nDescri\u00e7\u00e3o\n\n\nA release \u00e9 dada como um per\u00edodo extenso de tempo que cont\u00e9m diversas sprints.\n\n\nFeatures propostas para a Release:\n\n\n\n\nFT03 - ND\n\n\n\n\nConhecimento inicial",
             "title": "Planejamento da release"
         },
         {
             "location": "/Release02/planejamento_release02/#planejamento-da-release-02",
-            "text": "Data de in\u00edcio: 23/05   Data de t\u00e9rmino: 25/06    Quantidade de Sprints: 4 sprints   Dura\u00e7\u00e3o da Sprint: 1 semana",
+            "text": "Data de in\u00edcio: --   Data de t\u00e9rmino: --    Quantidade de Sprints: --   Dura\u00e7\u00e3o da Sprint: em m\u00e9dia 1 semana",
             "title": "Planejamento da Release 02"
         },
         {
@@ -342,43 +397,13 @@
         },
         {
             "location": "/Release02/planejamento_release02/#features-propostas-para-a-release",
-            "text": "FT01 - ND  FT02 - ND",
+            "text": "FT03 - ND",
             "title": "Features propostas para a Release:"
         },
         {
             "location": "/Release02/planejamento_release02/#conhecimento-inicial",
-            "text": "Membros  Git  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela  :(  :D  :D  :(  :(  :)  :(    Felipe  :)  :(  :(  :)  :(  :(  :(    Lu\u00eds Cl\u00e1udio Telles Lima  :)  :(  :(  :(  :(  :(  :(    Marcelo Ferreira Magalh\u00e3es J\u00fanior  :(  :(  :(  :(  :(  :(  :(    Milton Juliano da Silva J\u00fanior  :(  :(  :(  :(  :(  :(  :(    William Elias Alves  :)  :)  :)  :(  :(  :(  :(     Legenda    Ruim:   :(    Bom:    :)    \u00d3timo:    :D",
-            "title": "Conhecimento inicial"
-        },
-        {
-            "location": "/Release02/Sprint06/planejamento-sprint06/",
-            "text": "Planejamento\n\n\n\n\n\n\n\n\nN\u00famero da sprint\n\n\n06\n\n\n\n\n\n\n\n\n\n\nData de in\u00edcio\n\n\nXX/0X/2018\n\n\n\n\n\n\nData de t\u00e9rmino\n\n\nXX/0X/2018\n\n\n\n\n\n\n\n\nReuni\u00e3o\n\n\nData:\n XX/0X\n\n\nHor\u00e1rio:\n XX:XX \u00e0s XX:XX\n\n\nLocal:\n A COMPLETAR\n\n\nDados da Sprint\n\n\n\n\nHor\u00e1rio daily meeting: XX:XX\n\n\n\n\nPap\u00e9is\n\n\n\n\n\n\nScrum Master: A DEFINIR\n\n\n\n\n\n\nDevelopment time: A DEFINR\n\n\n\n\n\n\nBacklog da Sprint\n\n\nDescri\u00e7\u00e3o da sprint.\n\n\n\n\n\nIssue XX\n - A DEFINR\n\n \nTarefas:\n\n    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\nCrit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet\n\n\n\n\n\nIssue XX\n -A DEFINIR \n\n  \nTarefas:\n\n      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet",
-            "title": "Planejamento"
-        },
-        {
-            "location": "/Release02/Sprint06/planejamento-sprint06/#planejamento",
-            "text": "N\u00famero da sprint  06      Data de in\u00edcio  XX/0X/2018    Data de t\u00e9rmino  XX/0X/2018     Reuni\u00e3o  Data:  XX/0X  Hor\u00e1rio:  XX:XX \u00e0s XX:XX  Local:  A COMPLETAR  Dados da Sprint   Hor\u00e1rio daily meeting: XX:XX   Pap\u00e9is    Scrum Master: A DEFINIR    Development time: A DEFINR",
-            "title": "Planejamento"
-        },
-        {
-            "location": "/Release02/Sprint06/planejamento-sprint06/#backlog-da-sprint",
-            "text": "Descri\u00e7\u00e3o da sprint.   Issue XX  - A DEFINR \n  Tarefas: \n    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.  Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet\n\n- Lorem ipsum dolor sit amet   Issue XX  -A DEFINIR  \n   Tarefas: \n      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.    Crit\u00e9rios de aceita\u00e7\u00e3o:\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet\n\n  - Lorem ipsum dolor sit amet",
-            "title": "Backlog da Sprint"
-        },
-        {
-            "location": "/Release02/Sprint06/resultados-sprint06/",
-            "text": "Resultados\n\n\nQuadro de conhecimentos\n\n\n\n\n\n\n\n\nMembros\n\n\nGit\n\n\nHTML\n\n\nCSS\n\n\nPython3\n\n\nDjango\n\n\nSQL (Postgree)\n\n\nBootstrap\n\n\n\n\n\n\n\n\n\n\nAline Laureano de Ara\u00fajo Vilela\n\n\n:(\n\n\n:D\n\n\n:D\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n\n\n\n\nFelipe\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nLu\u00eds Cl\u00e1udio Telles Lima\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMarcelo Ferreira Magalh\u00e3es J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nMilton Juliano da Silva J\u00fanior\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\nWilliam Elias Alves\n\n\n:)\n\n\n:)\n\n\n:)\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n:(\n\n\n\n\n\n\n\n\nLegenda\n\n\n\n\n\n\nRuim:   :(\n\n\n\n\n\n\nBom:    :)\n\n\n\n\n\n\n\u00d3timo:    :D",
-            "title": "Resultado"
-        },
-        {
-            "location": "/Release02/Sprint06/resultados-sprint06/#resultados",
             "text": "",
-            "title": "Resultados"
-        },
-        {
-            "location": "/Release02/Sprint06/resultados-sprint06/#quadro-de-conhecimentos",
-            "text": "Membros  Git  HTML  CSS  Python3  Django  SQL (Postgree)  Bootstrap      Aline Laureano de Ara\u00fajo Vilela  :(  :D  :D  :(  :(  :)  :(    Felipe  :)  :(  :(  :)  :(  :(  :(    Lu\u00eds Cl\u00e1udio Telles Lima  :)  :(  :(  :(  :(  :(  :(    Marcelo Ferreira Magalh\u00e3es J\u00fanior  :(  :(  :(  :(  :(  :(  :(    Milton Juliano da Silva J\u00fanior  :(  :(  :(  :(  :(  :(  :(    William Elias Alves  :)  :)  :)  :(  :(  :(  :(     Legenda    Ruim:   :(    Bom:    :)    \u00d3timo:    :D",
-            "title": "Quadro de conhecimentos"
+            "title": "Conhecimento inicial"
         },
         {
             "location": "/Release02/Sprint07/planejamento-sprint07/",
