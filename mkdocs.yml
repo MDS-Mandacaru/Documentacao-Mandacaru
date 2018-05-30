@@ -3,6 +3,7 @@ pages:
 
     - Home: index.md
     - Metodologia: metodologia.md
+    - Artefatos para a documentação oficial: artefatos_documentacao.md
 
     - RELEASE 01:
       - Planejamento da release: Release01/planejamento_release01.md

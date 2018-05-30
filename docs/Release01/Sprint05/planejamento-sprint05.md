@@ -10,7 +10,7 @@
 
 **Horário:** 10:00 às 11:00
 
-**Local:** Hangout (Chamada de vídeo do Google)
+**Local:** Via *hangouts* (vídeo chamada do Google)
 
 ### Dados da Sprint
 * Horário daily meeting: 21:00

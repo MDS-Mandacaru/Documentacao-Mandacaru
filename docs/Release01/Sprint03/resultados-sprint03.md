@@ -39,3 +39,5 @@ William Elias Alves | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png) 
 
 ##Gráfico de burndown
 ![Burndown Sprint03](/img/burndown_sprint03.png)
+
+***

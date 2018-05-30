@@ -248,3 +248,5 @@ Ele procura fundamentar as suas práticas por um conjunto de princípios:
 
 Guia Scrum:
 [http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf](http://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf)
+
+***

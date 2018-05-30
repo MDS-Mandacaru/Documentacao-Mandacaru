@@ -51,3 +51,5 @@ Legenda |
 
 ##Gráfico de burndown
 ![Burndown Sprint04](/img/burndown_sprint04.png)
+
+***

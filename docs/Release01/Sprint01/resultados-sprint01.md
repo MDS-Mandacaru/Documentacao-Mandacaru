@@ -62,3 +62,5 @@ Legenda |
  Regular: | ![Regular](../../img/thinking.png) 
  Bom: | ![Bom](../../img/happy.png)
  Ótimo: | ![Ótimo](../../img/cool.png)
+
+ ***
