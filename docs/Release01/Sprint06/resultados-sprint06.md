@@ -16,8 +16,8 @@
 Data | Aline | Felipe | Luís | Marcelo | William
 :----|:-----:|:------:|:----:|:-------:|:-------:
 28/05| ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png)
-28/05| ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png)
-28/05| ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png)
+29/05| ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png)
+30/05| ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png)
 
 ***
 
