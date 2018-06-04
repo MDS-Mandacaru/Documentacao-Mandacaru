@@ -331,7 +331,7 @@
             <div class="section">
               
                 <h1 id="artefatos-para-documentacao-oficial">Artefatos para documentação oficial</h1>
-<p>Nesta página encontra-se todos os artefatos da documentação oficial <a href="https://victorarnaud.github.io/TBL/">TBL</a> que foram atualizados decorrente da ciração do aplicativos:</p>
+<p>Nesta página encontra-se todos os artefatos da documentação oficial <a href="https://victorarnaud.github.io/TBL/">TBL</a> que foram atualizados decorrente da criação do aplicativos:</p>
 <ul>
 <li>Group Ranking</li>
 <li>Hall of Fame</li>
@@ -354,11 +354,11 @@
 <p><img alt="Sprint06" src="../img/backlog06.png" /></p>
 <hr />
 <h1 id="diagrama-de-classe">Diagrama de classe</h1>
-<p><img alt="Diagrama de classe" src="../img/diagram_classe2.png" /></p>
+<p><img alt="Diagrama de classe" src="../img/diagrama_de_classe_atualizado.jpg" /></p>
 <hr />
 <h1 id="mer">MER</h1>
 <h2 id="entidades-e-atributos"><strong>Entidades e Atributos</strong></h2>
-<h3 id="groupranking"><strong>GroupRanking</strong>:</h3>
+<h3 id="ranking"><strong>Ranking</strong>:</h3>
 <table>
 <thead>
 <tr>
@@ -402,7 +402,7 @@
 </tr>
 <tr>
 <td>ranking_id</td>
-<td>GroupRanking</td>
+<td>Ranking</td>
 <td>obrigatório</td>
 <td>Ranking de grupos no qual este GroupInfo está vinculado.</td>
 </tr>
@@ -446,7 +446,7 @@
 </tbody>
 </table>
 <h2 id="relacionamentos-entre-classes"><strong>Relacionamentos entre classes</strong></h2>
-<p>GROUPRANKING tem DISCIPLINE:</p>
+<p>RANKING tem DISCIPLINE:</p>
 <ul>
 <li>Um ranking de grupos deve ter uma disciplina, e uma disciplina pode ter vários rankings de grupos.</li>
 <li>Cardinalidade: Nx1</li>
@@ -456,7 +456,7 @@
 <li>Uma informações de um grupo deve ter um grupo, e um grupo deve ter uma informações de um grupo.</li>
 <li><strong>Cardinalidade:</strong> 1x1</li>
 </ul>
-<p>GROUPINFO tem GROUPRANKING:</p>
+<p>GROUPINFO tem RANKING:</p>
 <ul>
 <li>Uma informações de um grupo deve ter um ranking de grupo, e um ranking de grupos pode ter várias informações de grupos.</li>
 <li><strong>Cardinalidade:</strong> Nx1</li>
@@ -466,22 +466,12 @@
 <li>Um hall da fama deve ter uma disciplina, e uma disciplina pode ter vários halls da fama.</li>
 <li><strong>Cardinalidade:</strong> Nx1</li>
 </ul>
-<p>HALLOFFAME tem GROUPINFO:</p>
-<ul>
-<li>Um hall da fama deve ter uma infromações de um grupo, e uma informações de um grupo pode ter um hall da fama.</li>
-<li><strong>Cardinalidade:</strong> 1x1</li>
-</ul>
 <p>GROUPINFO pertence HALLOFFAME:</p>
 <ul>
 <li>Uma informações de um grupo pode pertencer a um hall da fama, porém um hall da fama pode ter várias infromações de um grupo.</li>
 <li><strong>Cardinalidade:</strong> Nx1</li>
 </ul>
-<p>HALLOFFAME pertence DICIPLINE:</p>
-<ul>
-<li>Um hall da fama pertence a uma disciplina, porém uma disciplina pode ter vários halls da fama.</li>
-<li><strong>Cardinalidade:</strong> Nx1</li>
-</ul>
-<p>GROUPRANKING pertence DISCIPLINE:</p>
+<p>RANKING pertence DISCIPLINE:</p>
 <ul>
 <li>Um ranking de grupos peetence a uma disciplina, porém uma disciplina pode ter vários rankings de grupos diferentes.</li>
 <li><strong>Cardinalidade:</strong> Nx1</li>
