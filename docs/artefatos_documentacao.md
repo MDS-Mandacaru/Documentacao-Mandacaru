@@ -1,5 +1,5 @@
 # Artefatos para documentação oficial
-Nesta página encontra-se todos os artefatos da documentação oficial [TBL](https://victorarnaud.github.io/TBL/) que foram atualizados decorrente da ciração do aplicativos:
+Nesta página encontra-se todos os artefatos da documentação oficial [TBL](https://victorarnaud.github.io/TBL/) que foram atualizados decorrente da criação do aplicativos:
 
 * Group Ranking
 * Hall of Fame
@@ -40,7 +40,7 @@ Nesta página encontra-se todos os artefatos da documentação oficial [TBL](htt
 
 # Diagrama de classe
 
-![Diagrama de classe](img/diagram_classe2.png )
+![Diagrama de classe](img/diagrama_de_classe_atualizado.jpg)
 
 ***
 
@@ -48,7 +48,7 @@ Nesta página encontra-se todos os artefatos da documentação oficial [TBL](htt
 
 ## **Entidades e Atributos**
 
-### **GroupRanking**:
+### **Ranking**:
 
 Atributo | Tipo	| Característica | Descrição
 ---------|------|----------------|----------
@@ -60,7 +60,7 @@ Atributo | Tipo	| Característica | Descrição
 ---------|------|----------------|----------
 results | float | automático, padrão 0 | Nota de desempenho do grupo com a média de todas as suas avaliações iRAT, gRAT, prática e em pares.
 group_id | Group | obrigatório | Grupo na qual estas informações pertencem.
-ranking_id | GroupRanking | obrigatório | Ranking de grupos no qual este GroupInfo está vinculado.  
+ranking_id | Ranking | obrigatório | Ranking de grupos no qual este GroupInfo está vinculado.  
 
 ### **HallOfFame**:
 
@@ -74,7 +74,7 @@ group_info_id | GroupInfo | obrigatório | GroupInfo vinculado a este objeto do 
 
 ## **Relacionamentos entre classes**
 
-GROUPRANKING tem DISCIPLINE:
+RANKING tem DISCIPLINE:
 
 * Um ranking de grupos deve ter uma disciplina, e uma disciplina pode ter vários rankings de grupos.
 * Cardinalidade: Nx1
@@ -85,7 +85,7 @@ GROUPINFO tem GROUP:
 * Uma informações de um grupo deve ter um grupo, e um grupo deve ter uma informações de um grupo.
 * **Cardinalidade:** 1x1
 
-GROUPINFO tem GROUPRANKING:
+GROUPINFO tem RANKING:
 
 * Uma informações de um grupo deve ter um ranking de grupo, e um ranking de grupos pode ter várias informações de grupos.
 * **Cardinalidade:** Nx1
@@ -95,22 +95,12 @@ HALLOFFAME tem DISCIPLINE:
 * Um hall da fama deve ter uma disciplina, e uma disciplina pode ter vários halls da fama.
 * **Cardinalidade:** Nx1
 
-HALLOFFAME tem GROUPINFO:
-
-* Um hall da fama deve ter uma infromações de um grupo, e uma informações de um grupo pode ter um hall da fama.
-* **Cardinalidade:** 1x1
-
 GROUPINFO pertence HALLOFFAME:
 
 * Uma informações de um grupo pode pertencer a um hall da fama, porém um hall da fama pode ter várias infromações de um grupo.
 * **Cardinalidade:** Nx1
 
-HALLOFFAME pertence DICIPLINE:
-
-* Um hall da fama pertence a uma disciplina, porém uma disciplina pode ter vários halls da fama.
-* **Cardinalidade:** Nx1
-
-GROUPRANKING pertence DISCIPLINE:
+RANKING pertence DISCIPLINE:
 
 * Um ranking de grupos peetence a uma disciplina, porém uma disciplina pode ter vários rankings de grupos diferentes.
 * **Cardinalidade:** Nx1
