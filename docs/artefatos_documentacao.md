@@ -76,8 +76,8 @@ group_info_id | GroupInfo | obrigatório | GroupInfo vinculado a este objeto do 
 
 RANKING tem DISCIPLINE:
 
-* Um ranking de grupos deve ter uma disciplina, e uma disciplina pode ter vários rankings de grupos.
-* Cardinalidade: Nx1
+* Um ranking de grupos deve ter uma disciplina, e uma disciplina deve ter um rankings de grupos.
+* Cardinalidade: 1x1
 
 
 GROUPINFO tem GROUP:
