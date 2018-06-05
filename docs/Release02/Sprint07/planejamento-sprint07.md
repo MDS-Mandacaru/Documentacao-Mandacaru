@@ -2,48 +2,76 @@
 
 |Número da sprint 	| 07|
 |---------|-|
-|Data de início 	| XX/0X/2018|
-|Data de término 	| XX/0X/2018|
+|Data de início 	| 04/06/2018|
+|Data de término 	| 11/06/2018|
 
 ### Reunião
-**Data:** XX/0X
+**Data:** 04/06
 
-**Horário:** XX:XX às XX:XX
+**Horário:** 21:00 às 23:00
 
-**Local:** A COMPLETAR
+**Local:** Via *hangouts* (vídeo chamada do Google)
 
 ### Dados da Sprint
-* Horário daily meeting: XX:XX
+* Horário daily meeting: 21h:00
 
 ### Papéis
-* Scrum Master: A DEFINIR
+* Scrum Master: Luís Claudio T. Lima
 
-* Development time: A DEFINR
+* Development time: Aline Laureano, William Elias, Felipe Agustini e Marcelo Magalhães
 
 ## Backlog da Sprint
-Descrição da sprint.
+Sprint dedicada as dividas técnicas da RELEASE 1 e a estudo para criar a funcionalidade de raspadinha na avaliação gRAT.
 <br/>
 ***  
- **Issue XX** - A DEFINR<br/>
- **Tarefas:**  
-    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ **Issue #37** - [US06] - Eu como professor ou aluno, caso haja empate de nota entre grupos de uma disciplina, desejo visualizar esses grupos pertencendo a mesma colocação.<br/>
 
     Critérios de aceitação:
-
-    - Lorem ipsum dolor sit amet
-
-    - Lorem ipsum dolor sit amet
-
-    - Lorem ipsum dolor sit amet
+    
+    - O software consegue verificar se há empate de dois ou mais grupos na 1ª colocação do Ranking.
+    
+    - O software consegue verificar se há empate de dois ou mais grupos na 2ª colocação do Ranking.
+    
+    - O software consegue verificar se há empate de dois ou mais grupos na 3ª colocação do Ranking.
+    
+    - Caso haja empate na 1ª posição, todos os grupos desse empate aparecem com o troféu de primeiro lugar.
+    
+    - Caso haja empate na 2ª posição, todos os grupos desse empate aparecem com o troféu de segundo lugar.
+    
+    - Caso haja empate na 3ª posição, todos os grupos desse empate aparecem com o troféu de terceiro lugar.
 ***
-  **Issue XX** -A DEFINIR <br/>
-  **Tarefas:**  
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ **Issue #38** [US07] - Eu, como professor, só consigo fechar uma disciplina caso todas as sessões relacionadas a ela estejam fechadas.<br/>
 
-      Critérios de aceitação:
+    Critérios de aceitação:
+    
+    - O software verifica se ha sessões abertas no momento em que uma disciplina e fechada.
 
-      - Lorem ipsum dolor sit amet
+    - Não deve ser permitido que uma disciplina seja fechada caso existam sessões abertas.
 
-      - Lorem ipsum dolor sit amet
+    - O software apresenta uma mensagem solicitando ao professor que feche as sessões abertas antes de finalizar a disciplina.
+***
+ **Issue #39** [EN01] - O software deve apresentar uma cobertura total de testes unitários. <br/>
+    
+    Critérios de aceitação:
 
-      - Lorem ipsum dolor sit amet
+    - Feitos os testes unitários da aplicação hall of fame.
+
+    - Feitos os testes unitários da aplicação ranking.
+
+    - Feitos os testes unitários da funcionalidade de raspadinha da avaliação gRAT.
+***
+ **Issue #40** [US08] - Eu como usuário desejo ter acesso ao hall da fama de qualquer disciplina. <br/>
+   
+    Critérios de aceitação:
+ 
+    - Qualquer usuário deve conseguir visualizar o hall da fama de todas as disciplinas cadastradas a qualquer momento.
+
+***
+ **Issue #41** [EN02] - O software deve cadastrar na model HallOfFame a lista de alunos pertencente a sua disciplina para fins de log. <br/>
+   
+    Critérios de aceitação:
+ 
+    - Criado o atributo que armazena a lista de alunos.
+
+    - O software armazena a lista de alunos na model HallOfFame assim que a disciplina e fechada.
+  

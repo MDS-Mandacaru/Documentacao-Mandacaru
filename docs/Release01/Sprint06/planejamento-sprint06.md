@@ -18,7 +18,7 @@
 ### Papéis
 * Scrum Master: Aline Laureano
 
-* Development time: William Elias, Felipe Agustini, Luís Claudio e Marcelo Magalhães
+* Development time: William Elias, Felipe Agustini, Luís Claudio T. Lima e Marcelo Magalhães
 
 ## Backlog da Sprint
 Sprint dedicada à etapa final da RELEASE 1: criação de testes unitários, atualizar documentação, inserir a funcionalidade de filtro no app hall of fame e montar e se preparar para a apresentação.
