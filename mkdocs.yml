@@ -34,5 +34,8 @@ pages:
       - Sprint 07:
         - Planejamento: Release02/Sprint07/planejamento-sprint07.md
         - Resultado: Release02/Sprint07/resultados-sprint07.md
+      - Sprint 08:
+        - Planejamento: Release02/Sprint08/planejamento-sprint08.md
+        - Resultado: Release02/Sprint08/resultados-sprint08.md
 
 theme: readthedocs

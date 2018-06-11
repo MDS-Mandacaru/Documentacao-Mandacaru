@@ -3,7 +3,7 @@
 * Data de início: 04/06
 * Data de término: 24/06
 
-* Quantidade de Sprints: 4 sprints
+* Quantidade de Sprints: 3 sprints
 * Duração da Sprint: em média 1 semana
 
 
