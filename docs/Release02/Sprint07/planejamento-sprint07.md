@@ -10,7 +10,7 @@
 
 **Horário:** 10:00 às 11:30
 
-**Local:** UnB-FGA
+**Local:** UnB-FGA (Pessoalmente)
 
 ### Dados da Sprint
 * Horário daily meeting: 21h:00
