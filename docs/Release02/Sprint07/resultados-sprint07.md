@@ -5,11 +5,9 @@
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
-|#37 |Nao concluída|
-|#38 |Nao concluída|
-|#39 |Nao concluída|
-|#40 |Nao concluída|
-|#41 |Nao concluída|
+|#42 |Nao concluída|
+|#43 |Nao concluída|
+
 
 
 ***
@@ -19,9 +17,9 @@ Data | Aline | Felipe | Luís | Marcelo | William
 :----|:-----:|:------:|:----:|:-------:|:-------:
 04/06| ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) | ![Faltou](../../img/x.png)
 05/06|![Presente](../../img/ok.png)  | ![Faltou](../../img/x.png)  | ![Presente](../../img/ok.png) |![Faltou](../../img/x.png)   | ![Presente](../../img/ok.png)
-06/06| ![Presente](../../img/ok.png) |![Faltou](../../img/x.png)   | ![Presente](../../img/ok.png) |  ![Presente](../../img/ok.png)| ![Faltou](../../img/x.png) 
-07/06| ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png)  | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png) 
-08/06|![Faltou](../../img/x.png)   |![Faltou](../../img/x.png)   | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png)  | ![Faltou](../../img/x.png) 
+06/06| ![Presente](../../img/ok.png) |![Faltou](../../img/x.png)   | ![Presente](../../img/ok.png) |  ![Presente](../../img/ok.png)| ![Faltou](../../img/x.png)
+07/06| ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png)  | ![Presente](../../img/ok.png) | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png)
+08/06|![Faltou](../../img/x.png)   |![Faltou](../../img/x.png)   | ![Presente](../../img/ok.png) | ![Faltou](../../img/x.png)  | ![Faltou](../../img/x.png)
 
 ***
 
@@ -37,11 +35,9 @@ William Elias Alves | ![Ótimo](../../img/cool.png) | ![Ótimo](../../img/cool.p
 Legenda |  
 :-----|:------:
  Ruim: | ![Ruim](../../img/sad.png)
- Regular: | ![Regular](../../img/thinking.png) 
+ Regular: | ![Regular](../../img/thinking.png)
  Bom: | ![Bom](../../img/happy.png)
  Ótimo: | ![Ótimo](../../img/cool.png)
 
 
 ***
-
-
