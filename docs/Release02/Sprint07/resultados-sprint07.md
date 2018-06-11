@@ -5,8 +5,8 @@
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
-|#42 |Nao concluída|
-|#43 |Nao concluída|
+|#42 |concluída|
+|#43 |concluída|
 
 
 
