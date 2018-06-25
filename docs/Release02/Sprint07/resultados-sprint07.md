@@ -5,8 +5,8 @@
 ##Status das Issues no Fim da Sprint
 |Issue 	| Status|
 |---|----------|
-|#42 |concluída|
-|#43 |concluída|
+|#42 |Concluída|
+|#43 |Concluída|
 
 
 
@@ -24,13 +24,13 @@ Data | Aline | Felipe | Luís | Marcelo | William
 ***
 
 ##Quadro de conhecimentos
-Membros | Git/GitHub | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap
-------- | --- | ---- | --- | -------- | ------ | -------------- | ---------
-Aline Laureano de Araújo Vilela   | ![Bom](../../img/happy.png) | ![Ótimo](../../img/cool.png) | ![Ótimo](../../img/cool.png) | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png)
-Felipe Agustini | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
-Luís Cláudio Telles Lima | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png) | ![Regular](../../img/thinking.png)
-Marcelo Ferreira Magalhães Júnior | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)
-William Elias Alves | ![Ótimo](../../img/cool.png) | ![Ótimo](../../img/cool.png) | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png)  | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png)
+Membros | Git/GitHub | HTML | CSS | Python3 | Django | SQL (Postgree) | Bootstrap | Django Testes
+------- | --- | ---- | --- | -------- | ------ | -------------- | --------- | ------
+Aline Laureano de Araújo Vilela   | ![Bom](../../img/happy.png) | ![Ótimo](../../img/cool.png) | ![Ótimo](../../img/cool.png) | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+Felipe Agustini | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png)  | ![Ruim](../../img/sad.png) | ![Bom](../../img/happy.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+Luís Cláudio Telles Lima | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)
+Marcelo Ferreira Magalhães Júnior | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Bom](../../img/happy.png)  | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png) | ![Ruim](../../img/sad.png)
+William Elias Alves | ![Ótimo](../../img/cool.png) | ![Ótimo](../../img/cool.png) | ![Bom](../../img/happy.png) | ![Bom](../../img/happy.png)  | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Regular](../../img/thinking.png) | ![Ruim](../../img/sad.png)
 
 Legenda |  
 :-----|:------:
@@ -39,5 +39,10 @@ Legenda |
  Bom: | ![Bom](../../img/happy.png)
  Ótimo: | ![Ótimo](../../img/cool.png)
 
+
+***
+
+##Gráfico de burndown
+![Burndown Sprint07](/img/burndown_sprint07.png)
 
 ***

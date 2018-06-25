@@ -36,6 +36,14 @@ Nesta página encontra-se todos os artefatos da documentação oficial [TBL](htt
 
 ![Sprint06](img/backlog06.png)
 
+### Sprint07
+
+![Sprint07](img/backlog07.png)
+
+### Sprint08
+
+![Sprint08](img/backlog08.png)
+
 ***
 
 # Diagrama de classe

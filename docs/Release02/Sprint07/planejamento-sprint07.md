@@ -24,8 +24,8 @@
 Sprint dedicada ao estudo da nova funcionalidade e estudo de testes em Django.
 <br/>
 ***  
- **Issue #42** - Essa issue é destinada ao estudo da nova funcionalidade que deverá ser implementada na release 2, no caso a funcionalidade será a "raspadinha" TBL.
+ **Issue #42** Essa issue é destinada ao estudo da nova funcionalidade que deverá ser implementada na release 2, no caso a funcionalidade será a "raspadinha" TBL.
 
 ***
- **Issue #43** - Essa issue refere-se ao estudo dos testes em Django com a utilização de classes como TestCase, SimpleTestCase e ModelMommy.
+ **Issue #43** Essa issue refere-se ao estudo dos testes em Django com a utilização de classes como TestCase, SimpleTestCase e ModelMommy.
 ***

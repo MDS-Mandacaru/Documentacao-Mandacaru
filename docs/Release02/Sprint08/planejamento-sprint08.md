@@ -3,7 +3,7 @@
 |Número da sprint 	| 08|
 |---------|-|
 |Data de início 	| 11/06/2018|
-|Data de término 	| 18/06/2018|
+|Data de término 	| 25/06/2018|
 
 ### Reunião
 **Data:** 11/06
@@ -24,7 +24,7 @@
 Sprint dedicada as dividas técnicas da RELEASE 1 e a estudo para criar a funcionalidade de raspadinha na avaliação gRAT.
 <br/>
 ***  
- **Issue #37** - [US06] - Eu como professor ou aluno, caso haja empate de nota entre grupos de uma disciplina, desejo visualizar esses grupos pertencendo a mesma colocação.<br/>
+ **Issue #37** [US06] - Eu como professor ou aluno, caso haja empate de nota entre grupos de uma disciplina, desejo visualizar esses grupos pertencendo a mesma colocação.<br/>
 
     Critérios de aceitação:
     
@@ -50,7 +50,7 @@ Sprint dedicada as dividas técnicas da RELEASE 1 e a estudo para criar a funcio
 
     - O software apresenta uma mensagem solicitando ao professor que feche as sessões abertas antes de finalizar a disciplina.
 ***
- **Issue #39** [EN01] - O software deve apresentar uma cobertura total de testes unitários. <br/>
+ **Issue #39** [EN01] - O software deve apresentar uma cobertura de testes unitários. <br/>
     
     Critérios de aceitação:
 
@@ -74,4 +74,13 @@ Sprint dedicada as dividas técnicas da RELEASE 1 e a estudo para criar a funcio
     - Criado o atributo que armazena a lista de alunos.
 
     - O software armazena a lista de alunos na model HallOfFame assim que a disciplina e fechada.
+ 
+***
+ **Issue #45** [US09] - Eu, como estudante, desejo ter o feedback de uma pergunta respondida durante uma avaliação gRAT por meio de uma raspadinha. <br/>
+   
+    Critérios de aceitação:
+ 
+    - Após cada submissão de uma resposta durante uma avaliação gRAT, o estudante tem acesso a uma raspadinha - uma imagem que pode ser "raspada" para que se visualize o que ela esconde.
+
+    - Depois de raspar a raspadinha é apresentado um feedback de desempenho, ou seja, o score da alternativa escolhida pelo estudante.
   
